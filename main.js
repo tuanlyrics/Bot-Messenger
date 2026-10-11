@@ -8,6 +8,36 @@ const os = require("os");
 const axios = require("axios");
 const logger = require("./pdata/utils/log.js");
 
+// ========== KEEP-ALIVE SERVER FOR RENDER 24/7 ==========
+const express = require('express');
+const keepAliveApp = express();
+const PORT = process.env.PORT || 10000;
+
+keepAliveApp.get('/', (req, res) => {
+  res.status(200).send('Bot is alive and running 24/7 on Render');
+});
+
+keepAliveApp.get('/health', (req, res) => {
+  res.status(200).json({ status: 'ok', uptime: process.uptime(), timestamp: new Date().toISOString() });
+});
+
+keepAliveApp.listen(PORT, () => {
+  console.log(`[KEEP-ALIVE] Server running on port ${PORT}`);
+});
+
+// Self-ping every 10 minutes to prevent sleep
+const SELF_URL = process.env.RENDER_EXTERNAL_URL || process.env.SELF_URL || `http://localhost:${PORT}`;
+setInterval(async () => {
+  try {
+    await axios.get(SELF_URL, { timeout: 15000 });
+    await axios.get(`${SELF_URL}/health`, { timeout: 15000 });
+    console.log('[KEEP-ALIVE] Self-ping successful at', new Date().toISOString());
+  } catch (err) {
+    console.log('[KEEP-ALIVE] Self-ping failed, will retry...', err.message);
+  }
+}, 10 * 60 * 1000);
+// ======================================================
+
 // --- [FIX] THÊM ĐOẠN NÀY ĐỂ FIX LỖI KẾT NỐI IPv6 ---
 const dns = require('dns');
 try {
