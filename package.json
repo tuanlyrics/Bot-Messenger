@@ -13,7 +13,7 @@
     "url": "git+https://github.com/dongdev06/miraiv2.git"
   },
   "engines": {
-    "node": ">=20"
+    "node": "20.x"
   },
   "author": "Pcoder",
   "license": "GPL-3.0",
