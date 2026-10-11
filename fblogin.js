@@ -8,8 +8,8 @@ const qs = require("qs");
 const logger = console;
 
 // 👉 SỬA EMAIL & MẬT KHẨU CỦA MÀY Ở ĐÂY
-const EMAIL = "phatgaming0991@gmail.com";
-const PASSWORD = "Pcoder123@#";
+const EMAIL = "tuanlyricsbot@gmail.com";
+const PASSWORD = "tuananhtiktok";
 
 class FacebookLogin {
   static async login() {
