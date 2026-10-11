@@ -1,0 +1,2167 @@
+{
+    "100047128875560": [
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/profile",
+            "time": "31/08/2025 09:15:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".profile",
+            "time": "31/08/2025 09:15:42",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "31/08/2025 09:15:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".profile list template",
+            "time": "31/08/2025 09:15:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/profile",
+            "time": "31/08/2025 09:24:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".profile help",
+            "time": "31/08/2025 09:24:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".profile xanh | ảnh | SPN TEAM | Nguyen Phat | 29/04/2005 | 12345678990 | Sniper | Nguyen Phat | 1,2 | 1,2,3,4",
+            "time": "31/08/2025 09:25:24",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "31/08/2025 09:25:32",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1341526084348043",
+                    "filename": "image-1341526084348043",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541373048_1341526087681376_7998297331984105873_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=gZmyh_XwauIQ7kNvwEbYoCs&_nc_oc=Adk17bXN_iu5gdR2vt0NsrYdLZlSS8wvYcoDjUzuGarLqqnxRymT6G0NAr_eM3NBUiQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3AFAt0vadfgYi_-0tcDeTLNksoozPWFq7NrCgjLP2jH52Q&oe=68DB3209",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541373048_1341526087681376_7998297331984105873_n.jpg?stp=dst-jpg_s280x280_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=gZmyh_XwauIQ7kNvwEbYoCs&_nc_oc=Adk17bXN_iu5gdR2vt0NsrYdLZlSS8wvYcoDjUzuGarLqqnxRymT6G0NAr_eM3NBUiQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3AEADWXubRIvIXD_4JzjD_B3x51YRwI5Tdieq7MaQfEdMw&oe=68DB3209",
+                    "previewWidth": 280,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541373048_1341526087681376_7998297331984105873_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=gZmyh_XwauIQ7kNvwEbYoCs&_nc_oc=Adk17bXN_iu5gdR2vt0NsrYdLZlSS8wvYcoDjUzuGarLqqnxRymT6G0NAr_eM3NBUiQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3AEdcbkD77Rz8CoLla82Qz5QxnqbGLStYN2ogPDMNzdBaw&oe=68DB3209",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541373048_1341526087681376_7998297331984105873_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=gZmyh_XwauIQ7kNvwEbYoCs&_nc_oc=Adk17bXN_iu5gdR2vt0NsrYdLZlSS8wvYcoDjUzuGarLqqnxRymT6G0NAr_eM3NBUiQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3AEdcbkD77Rz8CoLla82Qz5QxnqbGLStYN2ogPDMNzdBaw&oe=68DB3209",
+                    "width": 600,
+                    "height": 600,
+                    "name": "image-1341526084348043"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".user",
+            "time": "31/08/2025 10:57:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".unban user",
+            "time": "31/08/2025 10:57:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".unban",
+            "time": "31/08/2025 10:57:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".unban alluser",
+            "time": "31/08/2025 10:57:42",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".sendnoti AD sẽ chạy bot 2 acc này https://www.facebook.com/share/14LSuSpcyuk/\nhttps://www.facebook.com/share/16fLdDvb2X/ , nên nhóm nào bot không hoạt động ib AD gấp fb.com/pcoder090",
+            "time": "04/09/2025 12:12:46",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gAAPUT0OPyCmfRGmED2ZEyQ4rdypO",
+                    "url": "https://www.facebook.com/nguyen.phat.429532",
+                    "title": "Nguyễn Phát",
+                    "description": null,
+                    "source": null,
+                    "image": "https://scontent.xx.fbcdn.net/v/t39.30808-1/541756572_645062835311566_4659747518736890047_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=28885b&_nc_ohc=GTTWV1EPNpYQ7kNvwE1XJbh&_nc_oc=AdnnvTVz7UJuvy_dy32ygIJJIHOG3rgHrjQuSN3y84ed4ad_QtIr-vCQ7bta_W6coS0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent.xx&_nc_gid=IbwAe_aaGBEAi6Uc-TIkeg&oh=00_AfbwvcokLoCP-LKtjhWdR0ncD5ee31jeMGfm6xfhPzhUTA&oe=68BEE577",
+                    "width": 960,
+                    "height": 960,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://www.facebook.com/nguyen.phat.429532",
+                    "target": {
+                        "__typename": "User",
+                        "id": "100094235645470",
+                        "name": "Nguyễn Phát",
+                        "profile_picture": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t39.30808-1/541756572_645062835311566_4659747518736890047_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=GTTWV1EPNpYQ7kNvwE1XJbh&_nc_oc=AdnnvTVz7UJuvy_dy32ygIJJIHOG3rgHrjQuSN3y84ed4ad_QtIr-vCQ7bta_W6coS0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent.xx&_nc_gid=IbwAe_aaGBEAi6Uc-TIkeg&oh=00_AfZ9Qhyt780R8WXEXb7Xgr0wjigLXvtjwrxw5CnSVohkcg&oe=68BEE577"
+                        },
+                        "cover_photo": null,
+                        "work_info": null,
+                        "subscribe_status": "CANNOT_SUBSCRIBE"
+                    },
+                    "styleList": [
+                        "avatar",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "07/09/2025 08:32:52",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=ZPi20zPkPYYQ7kNvwHFEu31&_nc_oc=AdkuyKuwsi6cOONj1o3-uaE3qJDvAy0U-Vvjc3g4vHAN_w7VXq2n9Z5Pm0Atzma1aYU&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=rJ_J86kvMcUhja6ZhUcGxg&oh=00_Afax91ADMzts1rPLtlQeYD3VWJLFRNlyBrD2R4eFI0a8ZQ&oe=68C2A6CB",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 08:46:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 08:46:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 08:48:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 08:49:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 08:50:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 08:51:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 08:52:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 08:54:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 08:54:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 08:57:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 08:57:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 08:58:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 08:58:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:03:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:03:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:05:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:05:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:07:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:07:18",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:08:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:08:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:15:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:15:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:17:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:17:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:19:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:19:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:20:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:22:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:22:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:23:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:23:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd laod game/ffe1",
+            "time": "07/09/2025 09:31:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:31:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 09:31:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 09:31:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:16:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:16:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:18:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:19:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:20:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:24:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:24:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:25:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:25:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:27:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:27:15",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:28:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:29:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:30:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:30:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:31:18",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:31:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:32:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:33:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:33:14",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:33:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:37:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:37:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:38:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:39:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "07/09/2025 11:39:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "07/09/2025 11:39:52",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 9762618301 Nguyễn Phát spn_pcod0er090_17566323980268_3f9pnr 27/08/2025 23:30 28/08/2025 00:42",
+            "time": "07/09/2025 13:14:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ff",
+            "time": "07/09/2025 13:15:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 9762618301 Nguyễn Phát spn_pcod0er090_17566323980268_3f9pnr 27/08/2025 23:30 28/08/2025 00:42",
+            "time": "07/09/2025 13:15:46",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "07/09/2025 13:15:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 9762618301 Nguyễn Phát spn_pcod0er090_17566323980268_3f9pnr 27/08/2025 23:30 28/08/2025 00:42",
+            "time": "07/09/2025 13:20:35",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "07/09/2025 13:20:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "07/09/2025 13:52:49",
+            "attachment": [
+                {
+                    "type": "animated_image",
+                    "ID": "1664764040872239",
+                    "filename": "gif-1664764040872239",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "previewWidth": 960,
+                    "previewHeight": 540,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "width": 960,
+                    "height": 540,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "name": "gif-1664764040872239",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544624479_1664764050872238_6049192781075146404_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=FmNTsxMh76IQ7kNvwGuDzUh&_nc_oc=AdmACT61zvGprA0e0Y_POEmJnBOJiVmORLtWcu77lodhZOGqvA3G2jwotzgjYlj5DJI&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QGL7z4x_wXZKxnJ1KVwt0eywc1Wi258U-sRa-hlIFYT-Q&oe=68BF12CD"
+                },
+                {
+                    "type": "animated_image",
+                    "ID": "2523589958028219",
+                    "filename": "gif-2523589958028219",
+                    "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "previewWidth": 480,
+                    "previewHeight": 720,
+                    "url": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "width": 480,
+                    "height": 720,
+                    "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "name": "gif-2523589958028219",
+                    "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51",
+                    "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/544421885_2523589961361552_8685836481032395564_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=18Bu6D73QAYQ7kNvwEoF1bu&_nc_oc=AdkTh_K97oNRBDNGwEYcbfROxy_ZGdGIi5_M8v22m16_naLWQPj9tQhQjM4yTdlAPD0&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=2sdkCIb9wSFbA4stFzES8g&oh=03_Q7cD3QEYlL-q-C5vRD2_76xjzXw6JodNepVNahzWtQqfcoOgUw&oe=68BF1F51"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".sendnoti ✨ AD vừa update thêm 2 Layout Việt Nam mới!  \n👉 Mời mọi người ghé spn.io.vn để tạo ảnh bảng xếp hạng nhé.  \n\nℹ️ Bot vẫn hoạt động bình thường, nhưng thỉnh thoảng có thể tạm offline 1–10 phút do bị chặn auto login.  \nCó gì mọi người báo cho AD qua:  \n📩 Facebook: fb.com/pcoder090  \n📱 Zalo: 0786888655",
+            "time": "07/09/2025 13:53:57",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gAAPUT0OPyCmfVDk6tmZIvPtGdOxU",
+                    "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT1m0Hc246ogUm5A5ExIGqnJs-inQq6GYc2nca5CZ5HFsFAPxJpxvYfmDj8MUnR7xaz_1oryzAJVbLsDzAxU956eDn_QzH92ogMaeNAvm9cXvHPMT9b3X-zkGkr36YT1Scs_V-3lYPMLe-U&s=1",
+                    "title": "SPN | Nền Tảng Giải Đấu & Tính Điểm Free Fire",
+                    "description": "Tạo bảng điểm và quản lý giải đấu Free Fire chuyên nghiệp, tự động, nhanh chóng và hoàn toàn với SPN.IO.VN.",
+                    "source": "spn.io.vn",
+                    "image": "https://external.xx.fbcdn.net/emg1/v/t13/12968549506860375363?url=https%3A%2F%2Fi.imgur.com%2Ft6wWP4p.jpeg%3Fv%3D4273&fb_obo=1&utld=imgur.com&stp=dst-emg0_q75_s960x504_tt6&_nc_gid=J9sHK6Zo8eEFMvD-tJLvcg&ccb=13-1&oh=06_Q3-2AYe7Q-FuY2mBo0fEd8-xt78w2569Do9-Lielhb6P77kD&oe=68BF2201&_nc_sid=dbac29",
+                    "width": 960,
+                    "height": 504,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {
+                        "width": "1200",
+                        "height": "630"
+                    },
+                    "facebookUrl": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT1m0Hc246ogUm5A5ExIGqnJs-inQq6GYc2nca5CZ5HFsFAPxJpxvYfmDj8MUnR7xaz_1oryzAJVbLsDzAxU956eDn_QzH92ogMaeNAvm9cXvHPMT9b3X-zkGkr36YT1Scs_V-3lYPMLe-U&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gAAPUT0OPyCmfVDk6tmZIvPtGdOxU"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".afk AD đang cày tiếng anh , có gì gấp cứ gọi cho AD zalo.me/0786888655 hoặc ib qua fb gấp fb.com/pcoder090",
+            "time": "07/09/2025 15:35:14",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gAAPUT0OPyCmfVJX23WZI1Cl7XJpN",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fzalo.me%2F0786888655&h=AT0U8jDniobmwiGFCSATk1ELXwenBQVxWQtmpqwnvMfh16x5OZw7VvPNLO0u1Np6hi9k401234qmfDmyJFfoHrfQG7nV6hkgQuIVE_4cr2QABWpIML7VnUcRksMHi_DNeGQMhHGDdXkhB6M&s=1",
+                    "title": "Zalo - Nhắn Gửi Yêu Thương (Nhắn tin thoại - Trò chuyện nhóm ...)",
+                    "description": "",
+                    "source": "zalo.me",
+                    "image": "https://external.xx.fbcdn.net/emg1/v/t13/8847164135854653465?url=https%3A%2F%2Fstc-zaloprofile.zdn.vn%2Fimages%2Fdefault_thumb.png&fb_obo=1&utld=zdn.vn&stp=dst-emg0_q75_s512x250_tt6&_nc_gid=KWVqAkvDXPabq9_9OVMdgw&ccb=13-1&oh=06_Q3-2AZ5T9iBFB1YarKcPRZWYVbbZiwGU33FBsZbyOEwm2jFY&oe=68BF1E4D&_nc_sid=dbac29",
+                    "width": 512,
+                    "height": 250,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {
+                        "width": "512",
+                        "height": "250"
+                    },
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fzalo.me%2F0786888655&h=AT0U8jDniobmwiGFCSATk1ELXwenBQVxWQtmpqwnvMfh16x5OZw7VvPNLO0u1Np6hi9k401234qmfDmyJFfoHrfQG7nV6hkgQuIVE_4cr2QABWpIML7VnUcRksMHi_DNeGQMhHGDdXkhB6M&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gAAPUT0OPyCmfVJX23WZI1Cl7XJpN"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3207867775",
+            "time": "07/09/2025 22:45:37",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "21",
+            "time": "07/09/2025 22:45:42",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "14",
+            "time": "07/09/2025 22:45:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3207867775",
+            "time": "07/09/2025 22:56:10",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "22",
+            "time": "07/09/2025 22:56:14",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "14",
+            "time": "07/09/2025 22:56:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3207867775",
+            "time": "07/09/2025 22:56:58",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "22",
+            "time": "07/09/2025 22:57:25",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "14",
+            "time": "07/09/2025 22:57:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ff 3207867775",
+            "time": "07/09/2025 22:57:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ff",
+            "time": "08/09/2025 12:56:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 12:56:58",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "23",
+            "time": "08/09/2025 12:57:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 13:01:23",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "23",
+            "time": "08/09/2025 13:01:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 13:08:49",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "08/09/2025 13:08:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 13:20:41",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "3",
+            "time": "08/09/2025 13:20:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 13:22:36",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "3",
+            "time": "08/09/2025 13:22:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 13:25:41",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "08/09/2025 13:25:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 13:27:10",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "23",
+            "time": "08/09/2025 13:27:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffrank 3982514232 07/09/2025 21:40 07/09/2025 23:30",
+            "time": "08/09/2025 13:27:44",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "7",
+            "time": "08/09/2025 13:27:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "08/09/2025 19:39:00",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1694528647912983",
+                    "filename": "image-1694528647912983",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541612836_1694528651246316_4182768862011417725_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=HTQsmyEyAM8Q7kNvwFy6Nom&_nc_oc=AdmwJObzqVFtslkrNfH7M10GWhrkpPdF5yvvRQ0W9SNoywzhvE7AAawAY_5DA7klf_k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGEpuD8vjPJrysCklkKJ9vDcJEHEm3dC45_rlcwhS0ItQ&oe=68E6372E",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541612836_1694528651246316_4182768862011417725_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=HTQsmyEyAM8Q7kNvwFy6Nom&_nc_oc=AdmwJObzqVFtslkrNfH7M10GWhrkpPdF5yvvRQ0W9SNoywzhvE7AAawAY_5DA7klf_k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QEl99Kq0uTSGjlE8O4ExYX0t8rMnoMpwwwi7lnNCRY7NA&oe=68E6372E",
+                    "previewWidth": 280,
+                    "previewHeight": 606,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541612836_1694528651246316_4182768862011417725_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=HTQsmyEyAM8Q7kNvwFy6Nom&_nc_oc=AdmwJObzqVFtslkrNfH7M10GWhrkpPdF5yvvRQ0W9SNoywzhvE7AAawAY_5DA7klf_k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGCPa-Yz4eTiKtJd0VEtU_lXOeqBu4u7RCEcZBylLx2UA&oe=68E6372E",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1039,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/541612836_1694528651246316_4182768862011417725_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=HTQsmyEyAM8Q7kNvwFy6Nom&_nc_oc=AdmwJObzqVFtslkrNfH7M10GWhrkpPdF5yvvRQ0W9SNoywzhvE7AAawAY_5DA7klf_k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGCPa-Yz4eTiKtJd0VEtU_lXOeqBu4u7RCEcZBylLx2UA&oe=68E6372E",
+                    "width": 1242,
+                    "height": 2688,
+                    "name": "image-1694528647912983"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".sendnoti AD đã bật lại bot hiện giờ mn có thể sử dụng lại , bot chạy có 2 acc",
+            "time": "08/09/2025 19:39:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".uid https://www.facebook.com/share/19jXN5iZoo/?mibextid=wwXIfr",
+            "time": "08/09/2025 19:51:09",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gAAPUT0OPyCmfWqafFmZKWFVclCUc",
+                    "url": "https://www.facebook.com/profile.php?id=100042968753041",
+                    "title": "Hoàng Anh Khoa",
+                    "description": null,
+                    "source": null,
+                    "image": "https://scontent.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s960x960&_nc_cat=1&ccb=1-7&_nc_sid=207b4a&_nc_ohc=dWao2MoQK00Q7kNvwGpzPNb&_nc_oc=AdlAhr5ZZaOFDDMUEfAtuXQeIzlCKocoyTFWaNU-AxPxA00JyiEZ2iZVescmrSsD-uk&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent.xx&oh=00_AfYr3y1dnHDr3AE-526e89VPwNlfCyR5y6_P4g0xqq322w&oe=68E626BA",
+                    "width": 960,
+                    "height": 960,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://www.facebook.com/profile.php?id=100042968753041",
+                    "target": {
+                        "__typename": "User",
+                        "id": "100042968753041",
+                        "name": "Hoàng Anh Khoa",
+                        "profile_picture": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=cp0_dst-png_s50x50&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_ohc=dWao2MoQK00Q7kNvwGpzPNb&_nc_oc=AdlAhr5ZZaOFDDMUEfAtuXQeIzlCKocoyTFWaNU-AxPxA00JyiEZ2iZVescmrSsD-uk&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent.xx&oh=00_AfZqauxkIBeFrWiYhd-_o5xoaYSdCrIFlv1wIl2XEwixEw&oe=68E626BA"
+                        },
+                        "cover_photo": null,
+                        "work_info": null,
+                        "subscribe_status": "CANNOT_SUBSCRIBE"
+                    },
+                    "styleList": [
+                        "avatar",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".user unban 100042968753041",
+            "time": "08/09/2025 19:51:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load upt",
+            "time": "09/09/2025 05:55:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".upt",
+            "time": "09/09/2025 05:55:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".",
+            "time": "11/09/2025 19:43:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 19:44:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "hãy dựa vào code ffe1 làm lại canvas cho ảnh này , làm sao đúng nha , gồm 2 cái top 1 , 2 logo top 1 , 2 tên team top 1 , 2 chỉ số top 1 , từ 2-12 là bình thường , có game 1 - 4 , hiện tên người booyah ở game đó . Đây là ví dụ mẫu th , tao canh tọa độ xong mới đem vô cái chính .",
+            "time": "11/09/2025 19:48:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:02:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd laod game/ffe1",
+            "time": "11/09/2025 20:02:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:02:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:02:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:07:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:07:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:30:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:31:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:38:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:38:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:42:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:42:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:43:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:43:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:47:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:47:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:53:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:53:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ffe1",
+            "time": "11/09/2025 20:55:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "11/09/2025 20:55:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "12/09/2025 14:56:58",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1316981560004762",
+                    "filename": "image-1316981560004762",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/543680160_761519173313935_3806368242780440112_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=fVdCQGqR--sQ7kNvwHdVsnh&_nc_oc=AdngsCmeXRDgRDw_5z0HDBwyhazv5Jwz5o6SCjwm29gmfHr-4BwhvVilg1xl4cGDl4M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGatdP8VAiy5yU4IxXT_ZrQiFuwlTBQ3mmViTwy71QzLw&oe=68EB2D70",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/543680160_761519173313935_3806368242780440112_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=fVdCQGqR--sQ7kNvwHdVsnh&_nc_oc=AdngsCmeXRDgRDw_5z0HDBwyhazv5Jwz5o6SCjwm29gmfHr-4BwhvVilg1xl4cGDl4M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QG9mpAnC89kMj6d_ZPNe4-iPnyEEL5om_P9um0QpzvTbg&oe=68EB2D70",
+                    "previewWidth": 440,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/543680160_761519173313935_3806368242780440112_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=fVdCQGqR--sQ7kNvwHdVsnh&_nc_oc=AdngsCmeXRDgRDw_5z0HDBwyhazv5Jwz5o6SCjwm29gmfHr-4BwhvVilg1xl4cGDl4M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QFRXucFY9YfFsG2ksQvb-gJDEymkC9dcDo8NsSa1uHblw&oe=68EB2D70",
+                    "largePreviewWidth": 753,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/543680160_761519173313935_3806368242780440112_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=fVdCQGqR--sQ7kNvwHdVsnh&_nc_oc=AdngsCmeXRDgRDw_5z0HDBwyhazv5Jwz5o6SCjwm29gmfHr-4BwhvVilg1xl4cGDl4M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QFRXucFY9YfFsG2ksQvb-gJDEymkC9dcDo8NsSa1uHblw&oe=68EB2D70",
+                    "width": 1485,
+                    "height": 946,
+                    "name": "image-1316981560004762"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".imgur",
+            "time": "12/09/2025 14:57:09",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".dkupload",
+            "time": "12/09/2025 14:57:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".thamgia",
+            "time": "12/09/2025 23:10:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".join",
+            "time": "12/09/2025 23:11:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".join",
+            "time": "12/09/2025 23:11:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".boxjoin",
+            "time": "12/09/2025 23:11:14",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".thamgia",
+            "time": "12/09/2025 23:11:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".thue SPN_RENT_66d8e48cd9ab5063b6fd466979a8dcda",
+            "time": "17/09/2025 07:16:54",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "17/09/2025 07:16:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 6506692812",
+            "time": "17/09/2025 07:17:45",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "21",
+            "time": "17/09/2025 07:17:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 6506692812 17/09/2025 20:00 17/09/2025 21:30",
+            "time": "17/09/2025 07:18:15",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "17/09/2025 07:18:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 6506692812 16/09/2025 20:00 16/09/2025 21:30",
+            "time": "17/09/2025 07:18:39",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "17/09/2025 07:18:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td cpr 6506692812 10 17/09/2025 20:00 17/09/2025 21:30",
+            "time": "17/09/2025 07:19:00",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "17/09/2025 07:19:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ff",
+            "time": "17/09/2025 07:21:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td cpr 6506692812 10 17/09/2025 20:00 17/09/2025 21:30",
+            "time": "17/09/2025 07:21:24",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "17/09/2025 07:21:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 6506692812 10 16/09/2025 20:00 16/09/2025 21:30",
+            "time": "17/09/2025 07:21:48",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "17/09/2025 07:21:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td cpr 6506692812 10 16/09/2025 20:00 16/09/2025 21:30",
+            "time": "17/09/2025 07:23:02",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "17/09/2025 07:23:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td cpr 6506692812 10 16/09/2025 20:00 16/09/2025 21:30",
+            "time": "17/09/2025 07:26:04",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "23",
+            "time": "17/09/2025 07:26:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/qr",
+            "time": "17/09/2025 23:10:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:10:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "17/09/2025 23:16:33",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1949034145894874",
+                    "filename": "image-1949034145894874",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/529723296_1171231338197243_4671547762203017228_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=BgKo94-Iv3cQ7kNvwFZVscq&_nc_oc=AdnGe6nTBxFvdfMluk8Fv4g4Ou7wwUExqNCQvpkvBWvDKrJgFDPH-NUdbkiBkzmXXyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHPTp52cNdM-hpWEhmlkcwdsBnd_pgt5jig0ihYTL1VbA&oe=68F23DF7",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/529723296_1171231338197243_4671547762203017228_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=BgKo94-Iv3cQ7kNvwFZVscq&_nc_oc=AdnGe6nTBxFvdfMluk8Fv4g4Ou7wwUExqNCQvpkvBWvDKrJgFDPH-NUdbkiBkzmXXyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGCjnAhIVk_sTFkZKJ4QmKvomYv89RF2vbNzqY2RPKkbg&oe=68F23DF7",
+                    "previewWidth": 305,
+                    "previewHeight": 74,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/529723296_1171231338197243_4671547762203017228_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=BgKo94-Iv3cQ7kNvwFZVscq&_nc_oc=AdnGe6nTBxFvdfMluk8Fv4g4Ou7wwUExqNCQvpkvBWvDKrJgFDPH-NUdbkiBkzmXXyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGCjnAhIVk_sTFkZKJ4QmKvomYv89RF2vbNzqY2RPKkbg&oe=68F23DF7",
+                    "largePreviewWidth": 305,
+                    "largePreviewHeight": 74,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/529723296_1171231338197243_4671547762203017228_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=BgKo94-Iv3cQ7kNvwFZVscq&_nc_oc=AdnGe6nTBxFvdfMluk8Fv4g4Ou7wwUExqNCQvpkvBWvDKrJgFDPH-NUdbkiBkzmXXyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGCjnAhIVk_sTFkZKJ4QmKvomYv89RF2vbNzqY2RPKkbg&oe=68F23DF7",
+                    "width": 305,
+                    "height": 74,
+                    "name": "image-1949034145894874"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:22:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:25:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:29:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:30:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:35:18",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:38:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:39:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:43:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:44:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr kapella mbbank 0786888655 Nguyen truong thien phat",
+            "time": "17/09/2025 23:44:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr ice mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:01:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr ice mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:02:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr ice mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:05:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "lamf noots 1 maaux nx , di ngur",
+            "time": "18/09/2025 00:11:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr candy mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:18:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr candy mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:19:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr candy mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:20:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr candy mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:21:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr candy mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 00:22:15",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/qr",
+            "time": "18/09/2025 12:41:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr purple mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 12:41:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr purple mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 12:42:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr purple mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 12:44:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr purple mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 12:45:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr purple mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 12:46:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:36:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:37:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:38:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:39:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:43:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:43:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:44:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:45:46",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".qr xanh mbbank 0786888655 Nguyen truong thien phat",
+            "time": "18/09/2025 13:47:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "18/09/2025 14:03:59",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "761086480103191",
+                    "filename": "image-761086480103191",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550431173_761086483436524_4914850149514098641_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Myn-oNLHp-oQ7kNvwHLskcU&_nc_oc=AdlsejhSiZY3i0Bq06oVsqjTHNjd6GIDAWsD3J6rkSdMylkvRotY2tMp5Lmn0EwVdOY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGiYF3P7hgjt2wHu1xWNeERa0yO2Cq4Xgq8vBJqFUw97Q&oe=68F30529",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550431173_761086483436524_4914850149514098641_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Myn-oNLHp-oQ7kNvwHLskcU&_nc_oc=AdlsejhSiZY3i0Bq06oVsqjTHNjd6GIDAWsD3J6rkSdMylkvRotY2tMp5Lmn0EwVdOY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHg2iBLdXFfMU-RdN9H2sBruNINBEa9QlaV0dFpCszbsQ&oe=68F30529",
+                    "previewWidth": 443,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550431173_761086483436524_4914850149514098641_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Myn-oNLHp-oQ7kNvwHLskcU&_nc_oc=AdlsejhSiZY3i0Bq06oVsqjTHNjd6GIDAWsD3J6rkSdMylkvRotY2tMp5Lmn0EwVdOY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGGNOHovijZYv1Iev_RKKS4vJzIJeK_5zudajs0N-rVjQ&oe=68F30529",
+                    "largePreviewWidth": 759,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550431173_761086483436524_4914850149514098641_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Myn-oNLHp-oQ7kNvwHLskcU&_nc_oc=AdlsejhSiZY3i0Bq06oVsqjTHNjd6GIDAWsD3J6rkSdMylkvRotY2tMp5Lmn0EwVdOY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGGNOHovijZYv1Iev_RKKS4vJzIJeK_5zudajs0N-rVjQ&oe=68F30529",
+                    "width": 1492,
+                    "height": 943,
+                    "name": "image-761086480103191"
+                },
+                {
+                    "type": "photo",
+                    "ID": "2012215252650165",
+                    "filename": "image-2012215252650165",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550435000_2012215255983498_4809303333796721999_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=jsuq3_32fIkQ7kNvwFuNKeO&_nc_oc=AdlQx6cf6jgrS6PTe6WElSIEcdwhPBZiYmKHAZPOZfyGqqlEeQsjI5GseBNLrGIakwQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QG7HpoLbtDHZL8Y0boawCr6RboOVp964E-Z1rdo2Mj2Aw&oe=68F304F3",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550435000_2012215255983498_4809303333796721999_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=jsuq3_32fIkQ7kNvwFuNKeO&_nc_oc=AdlQx6cf6jgrS6PTe6WElSIEcdwhPBZiYmKHAZPOZfyGqqlEeQsjI5GseBNLrGIakwQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QFRMbM1fhfrOT2YwySnqNxwzniBJuLkSSfhs6UT1yxPRg&oe=68F304F3",
+                    "previewWidth": 444,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550435000_2012215255983498_4809303333796721999_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=jsuq3_32fIkQ7kNvwFuNKeO&_nc_oc=AdlQx6cf6jgrS6PTe6WElSIEcdwhPBZiYmKHAZPOZfyGqqlEeQsjI5GseBNLrGIakwQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QG1UWSXfmXgicjB9RJ_NtVz7P8rdN7TTgpkIe2Uo_wf8w&oe=68F304F3",
+                    "largePreviewWidth": 761,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550435000_2012215255983498_4809303333796721999_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=jsuq3_32fIkQ7kNvwFuNKeO&_nc_oc=AdlQx6cf6jgrS6PTe6WElSIEcdwhPBZiYmKHAZPOZfyGqqlEeQsjI5GseBNLrGIakwQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QG1UWSXfmXgicjB9RJ_NtVz7P8rdN7TTgpkIe2Uo_wf8w&oe=68F304F3",
+                    "width": 1490,
+                    "height": 940,
+                    "name": "image-2012215252650165"
+                },
+                {
+                    "type": "photo",
+                    "ID": "1081256890657906",
+                    "filename": "image-1081256890657906",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550846827_1081256893991239_6016539305781315686_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=p-3IQxP1BTEQ7kNvwHU-Wb4&_nc_oc=AdlTf8n5DOcORDCpNdbIel428IFDAeQ_yoZO-nkYFjhWJg-kxkUx6qd1wVM7gWhQ4QE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGKZcV9_dbTZcBVxCvt4n5OuY9KxWLZek-YGBoNKXtrbA&oe=68F332BC",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550846827_1081256893991239_6016539305781315686_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=p-3IQxP1BTEQ7kNvwHU-Wb4&_nc_oc=AdlTf8n5DOcORDCpNdbIel428IFDAeQ_yoZO-nkYFjhWJg-kxkUx6qd1wVM7gWhQ4QE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHdDhmmaXMI9Rhf7dw258knEyf6QJWgF9DQEsshX_5SLg&oe=68F332BC",
+                    "previewWidth": 442,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550846827_1081256893991239_6016539305781315686_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=p-3IQxP1BTEQ7kNvwHU-Wb4&_nc_oc=AdlTf8n5DOcORDCpNdbIel428IFDAeQ_yoZO-nkYFjhWJg-kxkUx6qd1wVM7gWhQ4QE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHoM3WI9LlC1q-7Vf_dAcKs8A8KtV9cvw0n0IHBEOhJVQ&oe=68F332BC",
+                    "largePreviewWidth": 757,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550846827_1081256893991239_6016539305781315686_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=p-3IQxP1BTEQ7kNvwHU-Wb4&_nc_oc=AdlTf8n5DOcORDCpNdbIel428IFDAeQ_yoZO-nkYFjhWJg-kxkUx6qd1wVM7gWhQ4QE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHoM3WI9LlC1q-7Vf_dAcKs8A8KtV9cvw0n0IHBEOhJVQ&oe=68F332BC",
+                    "width": 1489,
+                    "height": 944,
+                    "name": "image-1081256890657906"
+                },
+                {
+                    "type": "photo",
+                    "ID": "1561352261913055",
+                    "filename": "image-1561352261913055",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550636205_1561352265246388_5209883642000722994_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5sBhZlRdi3YQ7kNvwEVt8oO&_nc_oc=AdnVW5O2T2-biCdzEYNzOwPuchncdkt1fJgTgQWneuNmEmz0ItxeTwgAt5ETB-iHPTk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QEVNjQ8fz8nMCHbQmLRtIyoJmDkUv97kX1DFKgL13eXEg&oe=68F312EF",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550636205_1561352265246388_5209883642000722994_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5sBhZlRdi3YQ7kNvwEVt8oO&_nc_oc=AdnVW5O2T2-biCdzEYNzOwPuchncdkt1fJgTgQWneuNmEmz0ItxeTwgAt5ETB-iHPTk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHDhHrfajkvLoXxax6xpZ8NOu15yudX8m1mjo1Ry6MM8w&oe=68F312EF",
+                    "previewWidth": 444,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550636205_1561352265246388_5209883642000722994_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5sBhZlRdi3YQ7kNvwEVt8oO&_nc_oc=AdnVW5O2T2-biCdzEYNzOwPuchncdkt1fJgTgQWneuNmEmz0ItxeTwgAt5ETB-iHPTk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QELdqnl3FB3aHWz81eDhvr9FG8P23wA6sKsrBFioY0MiQ&oe=68F312EF",
+                    "largePreviewWidth": 762,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550636205_1561352265246388_5209883642000722994_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5sBhZlRdi3YQ7kNvwEVt8oO&_nc_oc=AdnVW5O2T2-biCdzEYNzOwPuchncdkt1fJgTgQWneuNmEmz0ItxeTwgAt5ETB-iHPTk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QELdqnl3FB3aHWz81eDhvr9FG8P23wA6sKsrBFioY0MiQ&oe=68F312EF",
+                    "width": 1492,
+                    "height": 940,
+                    "name": "image-1561352261913055"
+                },
+                {
+                    "type": "photo",
+                    "ID": "1856090004980548",
+                    "filename": "image-1856090004980548",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/549532350_1856090008313881_8877047972064582170_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NxETmMnPfcMQ7kNvwGodmuw&_nc_oc=AdmPcpzv6kLUPte_yUuOULpWymVyjBAK-YDQGhJCD1H54er6ofX_MRItGM_QUyG4UuQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHN73L_rNqZA9rjj0muEQlhsiIeh780lWco20n_tM75SQ&oe=68F32509",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/549532350_1856090008313881_8877047972064582170_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NxETmMnPfcMQ7kNvwGodmuw&_nc_oc=AdmPcpzv6kLUPte_yUuOULpWymVyjBAK-YDQGhJCD1H54er6ofX_MRItGM_QUyG4UuQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHvbgOLJB4Y7jjK6K-kxRtq1CbDAAp_unV4e_AXsbp1Bw&oe=68F32509",
+                    "previewWidth": 444,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/549532350_1856090008313881_8877047972064582170_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NxETmMnPfcMQ7kNvwGodmuw&_nc_oc=AdmPcpzv6kLUPte_yUuOULpWymVyjBAK-YDQGhJCD1H54er6ofX_MRItGM_QUyG4UuQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QEPpbl2SoIDogxuAgYkKsvKgvfeZVtEgx9Y_UajoyS3hA&oe=68F32509",
+                    "largePreviewWidth": 762,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/549532350_1856090008313881_8877047972064582170_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NxETmMnPfcMQ7kNvwGodmuw&_nc_oc=AdmPcpzv6kLUPte_yUuOULpWymVyjBAK-YDQGhJCD1H54er6ofX_MRItGM_QUyG4UuQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QEPpbl2SoIDogxuAgYkKsvKgvfeZVtEgx9Y_UajoyS3hA&oe=68F32509",
+                    "width": 1492,
+                    "height": 940,
+                    "name": "image-1856090004980548"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".sendnoti AD xin phép gửi thông báo 📢, xin lỗi đã làm phiền 🙏  \nHiện tại AD đã cập nhật thêm **5 mẫu QR Code mới** trên web **spn.io.vn** 🎉  \nGiá chỉ **5k/QR**, mọi người có thể tham khảo ngay trong ảnh AD gửi kèm.  \nRất mong được mọi người ủng hộ ❤️",
+            "time": "18/09/2025 14:05:29",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gAAPUT0OPyCmfjOm9n2ZW6R5xVZXe",
+                    "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT09NW-kbaWNcFRbhlcPl3oOn4b5NsyWRS_nKfVGkRlsaNxZ5_8Ds0iAIW5JTMXM1B_w5cD5b-alVtnyHJwir-iNRyCf0e0ZRQRC3B7MTQ0xsVMIyzo0to9NUxSzfWiYoiolDPNzsphidf8&s=1",
+                    "title": "Just a moment...",
+                    "description": "",
+                    "source": "spn.io.vn",
+                    "image": null,
+                    "width": null,
+                    "height": null,
+                    "playable": null,
+                    "duration": null,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT09NW-kbaWNcFRbhlcPl3oOn4b5NsyWRS_nKfVGkRlsaNxZ5_8Ds0iAIW5JTMXM1B_w5cD5b-alVtnyHJwir-iNRyCf0e0ZRQRC3B7MTQ0xsVMIyzo0to9NUxSzfWiYoiolDPNzsphidf8&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gAAPUT0OPyCmfjOm9n2ZW6R5xVZXe"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "👍",
+            "time": "18/09/2025 14:06:52",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".sendnoti AD xin phép gửi thông báo 📢, xin lỗi đã làm phiền 🙏  \nHiện tại AD đã cập nhật thêm *5 mẫu QR Code mới* trên web *spn.io.vn* 🎉  \nGiá chỉ *5k/QR*, mọi người có thể tham khảo ngay trong ảnh AD gửi kèm.  \nRất mong được mọi người ủng hộ ❤️",
+            "time": "18/09/2025 14:07:29",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gAAPUT0OPyCmfjOuVC2ZW6ZTGGbg7",
+                    "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT3Dhonno0no7LhvPQsZ-XUMgoSCOODy2GRwv6078mCcQpQVtrdE6eZz2Q3G4UQ6wKvnDkU4PbrYMQ6SH7d0kyXFy0VUgt8jUuDsQovqXPyxbh5aH8PZ8aqq4XULHqidHCOpqDT2PHt8Kuk&s=1",
+                    "title": "Just a moment...",
+                    "description": "",
+                    "source": "spn.io.vn",
+                    "image": null,
+                    "width": null,
+                    "height": null,
+                    "playable": null,
+                    "duration": null,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT3Dhonno0no7LhvPQsZ-XUMgoSCOODy2GRwv6078mCcQpQVtrdE6eZz2Q3G4UQ6wKvnDkU4PbrYMQ6SH7d0kyXFy0VUgt8jUuDsQovqXPyxbh5aH8PZ8aqq4XULHqidHCOpqDT2PHt8Kuk&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gAAPUT0OPyCmfjOuVC2ZW6ZTGGbg7"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "21/09/2025 11:35:12",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1268012408413367",
+                    "filename": "image-1268012408413367",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550916923_1268012411746700_7421532974254725050_n.jpg?stp=cp0_dst-jpg_p34x34_tt6&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Zl0by8p2MG8Q7kNvwFHZ3tv&_nc_oc=AdkY2d14F8IkXWaY1JdupoG3CkJPiULxzxSRtopebgAdIw32zIehzyEoFMrYyr9Udlk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QHBYUvHsg8GO5djZnzAI5qLpc7jA6sR6q-Ull2jdI9Y1Q&oe=68F6F193",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550916923_1268012411746700_7421532974254725050_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Zl0by8p2MG8Q7kNvwFHZ3tv&_nc_oc=AdkY2d14F8IkXWaY1JdupoG3CkJPiULxzxSRtopebgAdIw32zIehzyEoFMrYyr9Udlk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QGfL2beR-wTp4wO6Pr2QYINqEflCrmlmbMWjykCzKzo7w&oe=68F6F193",
+                    "previewWidth": 498,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550916923_1268012411746700_7421532974254725050_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Zl0by8p2MG8Q7kNvwFHZ3tv&_nc_oc=AdkY2d14F8IkXWaY1JdupoG3CkJPiULxzxSRtopebgAdIw32zIehzyEoFMrYyr9Udlk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QE2GflICue5eHlWs3MfDU__AfsU8EzFRz0GVc_rqlInJw&oe=68F6F193",
+                    "largePreviewWidth": 853,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/550916923_1268012411746700_7421532974254725050_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Zl0by8p2MG8Q7kNvwFHZ3tv&_nc_oc=AdkY2d14F8IkXWaY1JdupoG3CkJPiULxzxSRtopebgAdIw32zIehzyEoFMrYyr9Udlk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3QE2GflICue5eHlWs3MfDU__AfsU8EzFRz0GVc_rqlInJw&oe=68F6F193",
+                    "width": 1920,
+                    "height": 1080,
+                    "name": "image-1268012408413367"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".sendnoti AD xin phép gửi thông báo 📢, xin lỗi đã làm phiền 🙏  \nHiện tại AD đã cập nhật thêm *5 mẫu QR Code mới* trên web *spn.io.vn* 🎉  \nGiá chỉ *5k/QR*, mọi người có thể tham khảo ngay trong ảnh AD gửi kèm.  \nRất mong được mọi người ủng hộ ❤️",
+            "time": "21/09/2025 11:35:23",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gAAPUT0OPyCmfm9NmfGZao4itPAVI",
+                    "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT3sBKOVWbAbl9vdLm0Vrt3sOc2Gq2qYQ9-sXo6iQkkcdWnZ4nAzwI9r-MyZJD4XP6Yt6BgkUaUaC6O7nLl_znmZBo7Gsb8WqcfNKRszR7Zosss13jXG6emVo-Qkz5jKMRK_0C4R_W4dXT0&s=1",
+                    "title": "Just a moment...",
+                    "description": "",
+                    "source": "spn.io.vn",
+                    "image": null,
+                    "width": null,
+                    "height": null,
+                    "playable": null,
+                    "duration": null,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://l.facebook.com/l.php?u=http%3A%2F%2Fspn.io.vn%2F&h=AT3sBKOVWbAbl9vdLm0Vrt3sOc2Gq2qYQ9-sXo6iQkkcdWnZ4nAzwI9r-MyZJD4XP6Yt6BgkUaUaC6O7nLl_znmZBo7Gsb8WqcfNKRszR7Zosss13jXG6emVo-Qkz5jKMRK_0C4R_W4dXT0&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gAAPUT0OPyCmfm9NmfGZao4itPAVI"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".thamgia",
+            "time": "21/09/2025 11:36:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "1102197818092457",
+            "time": "21/09/2025 11:38:14",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load thamgia",
+            "time": "21/09/2025 11:41:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".thamgia",
+            "time": "21/09/2025 11:41:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".boxall",
+            "time": "21/09/2025 11:45:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".allbox",
+            "time": "21/09/2025 11:45:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".box all",
+            "time": "21/09/2025 11:48:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".listbox",
+            "time": "21/09/2025 11:51:08",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "out 42",
+            "time": "21/09/2025 11:55:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".ffe1",
+            "time": "23/09/2025 22:09:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load game/ff",
+            "time": "23/09/2025 22:12:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 2185570315 22/09/2025 19:59 22/09/2025 22:00",
+            "time": "23/09/2025 22:13:35",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:13:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 2185570315 22/09/2025 19:59 22/09/2025 22:00",
+            "time": "23/09/2025 22:17:49",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:17:52",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 2185570315 22/09/2025 19:59 22/09/2025 22:00",
+            "time": "23/09/2025 22:24:55",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:24:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 2185570315 22/09/2025 19:59 22/09/2025 22:00",
+            "time": "23/09/2025 22:27:05",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:27:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:30:37",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:30:46",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:32:36",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:33:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:34:07",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:34:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:35:11",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:35:14",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:36:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:36:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:38:47",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:38:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:40:01",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:40:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".td 908694290 20/09/2025 00:00 24/09/2025 00:00",
+            "time": "23/09/2025 22:42:53",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "23/09/2025 22:42:56",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "99ZP25200M15538549",
+            "time": "24/09/2025 12:01:15",
+            "attachment": []
+        }
+    ]
+}

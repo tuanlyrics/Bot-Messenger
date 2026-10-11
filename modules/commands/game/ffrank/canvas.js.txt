@@ -1,0 +1,78 @@
+const { createCanvas, loadImage } = require('canvas');
+const path = require('path');
+const fs = require('fs');
+
+function drawTextWithStroke(ctx, text, x, y, strokeColor, textColor, lineWidth) {
+    ctx.lineJoin = 'round';
+    ctx.miterLimit = 2;
+    ctx.strokeStyle = strokeColor;
+    ctx.lineWidth = lineWidth;
+    ctx.strokeText(text, x, y);
+    ctx.fillStyle = textColor;
+    ctx.fillText(text, x, y);
+}
+
+function truncateText(ctx, text, maxWidth) {
+    let width = ctx.measureText(text).width;
+    if (width <= maxWidth) return text;
+    while (width > maxWidth && text.length > 0) {
+        text = text.substring(0, text.length - 1);
+        width = ctx.measureText(text + '...').width;
+    }
+    return text + '...';
+}
+
+async function createLeaderboardImage({ rankedTeams, timeRange, cacheDir }) {
+    const backgroundPath = path.join(cacheDir, 'background_tet.png');
+    if (!fs.existsSync(backgroundPath)) {
+        throw new Error(`Không tìm thấy ảnh nền tại '${backgroundPath}'. Vui lòng khởi động lại bot.`);
+    }
+
+    const background = await loadImage(backgroundPath);
+    const canvas = createCanvas(background.width, background.height);
+    const ctx = canvas.getContext('2d');
+    ctx.drawImage(background, 0, 0, canvas.width, canvas.height);
+
+    const mainFont = '"Chakra Petch"';
+    const textColor = '#FFFFFF';
+    const strokeColor = '#4D1F0C';
+    const strokeWidth = 8;
+    ctx.textBaseline = 'middle';
+
+    ctx.font = `bold 55px ${mainFont}`;
+    ctx.textAlign = 'center';
+    const dateInfo = timeRange.split(' | ')[1];
+    const timeText = `Custom ${dateInfo}`;
+    drawTextWithStroke(ctx, timeText, 1080, 260, strokeColor, textColor, strokeWidth);
+
+    const tableStartY = 505;
+    const rowHeight = 69;
+    const maxTeams = 12;
+    const colRank = 740, colTeamName = 800, colElims = 1430, colBooyah = 1630, colPts = 1855;
+    const teamsToDisplay = rankedTeams.slice(0, maxTeams);
+
+    for (let i = 0; i < teamsToDisplay.length; i++) {
+        const team = teamsToDisplay[i];
+        const currentY = tableStartY + (i * rowHeight);
+
+        ctx.font = `bold 45px ${mainFont}`;
+        ctx.textAlign = 'center';
+        drawTextWithStroke(ctx, `${i + 1}`, colRank, currentY, strokeColor, textColor, strokeWidth - 2);
+
+        ctx.font = `bold 40px ${mainFont}`;
+        ctx.textAlign = 'left';
+        const teamNameText = (team.teamName && team.teamName.trim() !== '') ? team.teamName : team.names.slice(0, 2).join(', ');
+        const truncatedName = truncateText(ctx, teamNameText.toUpperCase(), 500);
+        drawTextWithStroke(ctx, truncatedName, colTeamName, currentY, strokeColor, textColor, strokeWidth);
+
+        ctx.font = `bold 45px ${mainFont}`;
+        ctx.textAlign = 'center';
+        drawTextWithStroke(ctx, team.totalKills, colElims, currentY, strokeColor, textColor, strokeWidth);
+        drawTextWithStroke(ctx, team.totalBooyahs, colBooyah, currentY, strokeColor, textColor, strokeWidth);
+        drawTextWithStroke(ctx, team.totalScore, colPts, currentY, strokeColor, textColor, strokeWidth);
+    }
+
+    return canvas.toBuffer('image/png');
+}
+
+module.exports = createLeaderboardImage;

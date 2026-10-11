@@ -1,0 +1,152 @@
+{
+    "509484270": [
+        {
+            "type": "message",
+            "message": "fbrpc://nativethirdparty/f?app_id=256002347743983&app_name=Facebook+Messenger+for+Android&is_app_profile_page_eligible=0&tap_behavior=web_always&target_url=https%3A%2F%2Fvt.tiktok.com%2FZSBpBFym5%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR53DvTitUEQ6Zk3bEGbCg3xmt7R9rapPhjVmwD8iV1pPf04YGE-H4P6d7BTmg_aem_tEWIVBkN7TYxjJWiZRjKOQ&app_sites=%5B%22fb256002347743983%3A%5C%2F%5C%2Fauthorize%23target_url%3Dhttps%5Cu00253A%5Cu00252F%5Cu00252Fvt.tiktok.com%5Cu00252FZSBpBFym5%5Cu00252F%5Cu00253Ffbclid%5Cu00253DIwZXh0bgNhZW0CMTEAAR53DvTitUEQ6Zk3bEGbCg3xmt7R9rapPhjVmwD8iV1pPf04YGE-H4P6d7BTmg_aem_tEWIVBkN7TYxjJWiZRjKOQ%22%5D&has_app_link=0",
+            "time": "15/07/2025 14:56:34",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABydzuXAVTiePlsnQGYDRXbURzm0",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2F5cu00252fvt.tiktok.com%2F&h=AT1PaRt823OiCaEc1wVhhiRM6oueNrNySfruFFIj6hiQdy9sQj0DezMPMPPcKaSybLUrt3TyAWvkPIIv943Si7_P_o4SRfPSyPKN_hjMUZV9gQ6XzrrAqBUMdZyL6tAJatHYpN46fpAbfCg&s=1",
+                    "title": "5cu00252fvt.tiktok.com",
+                    "description": "",
+                    "source": "5cu00252fvt.tiktok.com",
+                    "image": null,
+                    "width": null,
+                    "height": null,
+                    "playable": null,
+                    "duration": null,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2F5cu00252fvt.tiktok.com%2F&h=AT1PaRt823OiCaEc1wVhhiRM6oueNrNySfruFFIj6hiQdy9sQj0DezMPMPPcKaSybLUrt3TyAWvkPIIv943Si7_P_o4SRfPSyPKN_hjMUZV9gQ6XzrrAqBUMdZyL6tAJatHYpN46fpAbfCg&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gABydzuXAVTiePlsnQGYDRXbURzm0"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "https://vt.tiktok.com/ZSBpBFym5/",
+            "time": "15/07/2025 14:57:00",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABydzuXAVTiePluQfGYDRZEz1F2e",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSBpBFym5%2F&h=AT1XZddIEb1kh8vpNIXuGVOlrB5KtHBhV9x9jeoQCFCv-r9pSeDMS6v_CVbtbjrfm1M-_kHidP8GHDdjC_UVE2X97g18AB2fRbbXZxccKBtYqb06U55mQ7-cyX4IetgAMpSTyoKr0lMjQyY&s=1",
+                    "title": "TikTok · TÂM SỰ DAO KÉO",
+                    "description": "29.4K lượt thích, 1437 bình luận. “Lưu ngay video này, để thử cùng với bồ mình nhé các chị em 😁😁😁”",
+                    "source": "vt.tiktok.com",
+                    "image": "https://external.xx.fbcdn.net/emg1/v/t13/5287522069600121690?url=https%3A%2F%2Fp19-common-sign-sg.tiktokcdn-us.com%2Ftos-alisg-p-0037%2FoEAuBA5hllPlnGWi5jJRzIYQBAIaAiLA2AxAE%7Etplv-photomode-share-video-common%3A1200%3A630%3A20%3Atos-alisg-i-photomode-sg%2Fsmartui%2Fbutton%2Fplay-icon-large.png%3A%3A%3A%3A%3A.jpeg%3Fdr%3D9616%26refresh_token%3Dcdeebfe8%26x-expires%3D1784098800%26x-signature%3D9oyV%252FxquGLmI585kmoyJlrz%252BB6I%253D%26t%3D4d5b0474%26ps%3D13740610%26shp%3D55bbe6a9%26shcp%3D9dfa7f7f%26idc%3Duseast5%26ftpl%3D1&fb_obo=1&utld=tiktokcdn-us.com&stp=dst-emg0_q75_s960x504_tt6&_nc_gid=7fsElw_zVBkoSDHTCzZdkQ&ccb=13-1&oh=06_Q3-1AQC_gb0rPvLDCaQlccYqFfYJM_iPa9uVpKIQ39LTBpBv&oe=6877F044&_nc_sid=dbac29",
+                    "width": 960,
+                    "height": 504,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {
+                        "width": "1200",
+                        "height": "630"
+                    },
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSBpBFym5%2F&h=AT1XZddIEb1kh8vpNIXuGVOlrB5KtHBhV9x9jeoQCFCv-r9pSeDMS6v_CVbtbjrfm1M-_kHidP8GHDdjC_UVE2X97g18AB2fRbbXZxccKBtYqb06U55mQ7-cyX4IetgAMpSTyoKr0lMjQyY&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gABydzuXAVTiePluQfGYDRZEz1F2e"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "message": "k có con nào down về hả",
+            "time": "15/07/2025 14:58:51",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "😒",
+            "time": "15/07/2025 14:58:56",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "😒",
+            "time": "15/07/2025 15:00:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "nó cứ obj cay thế nhỉ",
+            "time": "15/07/2025 15:00:14",
+            "attachment": []
+        }
+    ],
+    "100015708247902": [
+        {
+            "type": "message_reply",
+            "message": ":))",
+            "time": "15/07/2025 14:57:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "message": "xin api tóc tóc",
+            "time": "15/07/2025 14:59:17",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "message": "thật k",
+            "time": "15/07/2025 15:00:36",
+            "attachment": []
+        }
+    ],
+    "61573986054035": [
+        {
+            "type": "message_reply",
+            "message": "tiktok.com",
+            "time": "15/07/2025 15:00:06",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABydzuXAVTiePl5mEmYDRkP7iVW8",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftiktok.com%2F&h=AT2Lp7oRPquSIXLU4LKfDBp_g9Bk87HyvYMyFwYC0oZD3jIRb5n5QyVmougRgMSu2n3IK3V_YlGKmZJAjgwHinOw_YVj9tfj2B8Mt9EQgT4dgshteRwAbo51xnnYfyUWfEOhKkUy_rWOIDc&s=1",
+                    "title": "TikTok - Make Your Day",
+                    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+                    "source": "tiktok.com",
+                    "image": "https://external.xx.fbcdn.net/emg1/v/t13/8564291422164622831?url=https%3A%2F%2Flf16-tiktok-common.ibytedtos.com%2Fobj%2Ftiktok-web-common-sg%2Fmtact%2Fstatic%2Fimages%2Ftiktok-logo%2Fposter-square.png&fb_obo=1&utld=ibytedtos.com&stp=dst-emg0_q75_s928x928_tt6&_nc_gid=E0OwaZtWZ8utQEMcSvAQlA&ccb=13-1&oh=06_Q3-1Af_fLR0HpJ9uq_u7sWsEgE75ciw7dXkYKhpQ-F5sqhQ3&oe=6877D113&_nc_sid=dbac29",
+                    "width": 928,
+                    "height": 928,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {
+                        "width": "928",
+                        "height": "928"
+                    },
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftiktok.com%2F&h=AT2Lp7oRPquSIXLU4LKfDBp_g9Bk87HyvYMyFwYC0oZD3jIRb5n5QyVmougRgMSu2n3IK3V_YlGKmZJAjgwHinOw_YVj9tfj2B8Mt9EQgT4dgshteRwAbo51xnnYfyUWfEOhKkUy_rWOIDc&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gABydzuXAVTiePl5mEmYDRkP7iVW8"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        }
+    ]
+}

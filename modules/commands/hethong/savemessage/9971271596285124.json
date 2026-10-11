@@ -1,0 +1,92 @@
+{
+    "61575999835460": [
+        {
+            "type": "message",
+            "name": "Thanh Nghia",
+            "message": ".del autosend",
+            "time": "11/07/2025 06:38:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Nghia",
+            "message": ".del autosend",
+            "time": "11/07/2025 06:38:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Nghia",
+            "message": ".cmd load autosend",
+            "time": "11/07/2025 06:44:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Nghia",
+            "message": "spam thời tiết phiền vl",
+            "time": "11/07/2025 06:44:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Nghia",
+            "message": ".",
+            "time": "13/07/2025 14:31:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Nghia",
+            "message": ".out",
+            "time": "17/08/2025 12:02:17",
+            "attachment": []
+        }
+    ],
+    "61576198664661": [
+        {
+            "type": "message_reply",
+            "name": "Sofia César Portillo",
+            "message": "🗑️ Đã xoá thành công file: autosend.js",
+            "time": "11/07/2025 06:44:20",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Sofia César Portillo",
+            "message": "[ 𝗖𝗠𝗗 ] » 𝘃𝘂̛̀𝗮 𝘁𝗮̉𝗶 𝘁𝗵𝗮̀𝗻𝗵 𝗰𝗼̂𝗻𝗴 0 𝗹𝗲̣̂𝗻𝗵\n━━━━━━━━━━━━━━━━\n[ 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 ] » 𝗺𝗼𝗱𝘂𝗹𝗲𝘀 (autosend.js) 💓",
+            "time": "11/07/2025 06:44:24",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Sofia César Portillo",
+            "message": "[ 𝗖𝗠𝗗 ] » Những lệnh vừa xảy ra sự cố khi hệ thống loading: - autosend reason:Error: ENOENT: no such file or directory, open '/home/container/modules/commands/autosend.js' at Error: ENOENT: no such file or directory, open '/home/container/modules/commands/autosend.js'\n    at Object.readFileSync (node:fs:449:20)\n    at getMaybeCachedSource (node:internal/modules/cjs/loader:1552:18)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1564:19)\n    at Module.load (node:internal/modules/cjs/loader:1275:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1096:12)\n    at Module.require (node:internal/modules/cjs/loader:1298:19)\n    at require (node:internal/modules/helpers:182:18)\n    at loadCommand (/home/container/modules/commands/cmd.js:34:29)\n    at Object.module.exports.run (/home/container/modules/commands/cmd.js:157:25)\n    at /home/container/pdata/data_dongdev/handle/handleCommand.js:338:27\n    at listen (/home/container/pdata/data_dongdev/listen.js:317:9)\n    at /home/container/main.js:315:14\n    at resolveAttachmentUrl (/home/container/fca/src/listenMqtt.js:377:11)\n    at parseDelta (/home/container/fca/src/listenMqtt.js:392:5)\n    at MqttClient.<anonymous> (/home/container/fca/src/listenMqtt.js:303:17)\n    at MqttClient.emit (node:events:524:28)\n    at Arguments.<anonymous> (/home/container/node_modules/mqtt/lib/client.js:1529:27)\n    at Object.MqttClient.options.customHandleAcks (/home/container/node_modules/mqtt/lib/client.js:270:150)\n    at MqttClient._handlePublish (/home/container/node_modules/mqtt/lib/client.js:1522:15)\n    at MqttClient._handlePacket (/home/container/node_modules/mqtt/lib/client.js:529:12)\n    at work (/home/container/node_modules/mqtt/lib/client.js:430:12)\n    at Writable.writable._write (/home/container/node_modules/mqtt/lib/client.js:444:5)",
+            "time": "11/07/2025 06:44:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Sofia César Portillo",
+            "message": "🌈 𝗨𝗽𝘁𝗶𝗺𝗲: 07:00:00 || 11/07/2025\n──────────────────\n🗺️ Địa điểm: Thái Bình, Vietnam\n🌡 Nhiệt độ: 26°C\n🛰  Mô tả: Rain showers\n♒ Độ ẩm: 94%\n💨 Gió: 6 km/h Hướng Tây Bắc\n⏰ Ghi nhận vào: 05:45:00\n🗺️ Trạm: Thái Bình, Vietnam\n📅 Thứ 6 - Ngày 11-07-2025\n──────────────────\n🔄 Đây là tin nhắn tự động cập nhật thời tiết!\n💡 Đừng quên nghỉ ngơi hợp lý giữa các giờ làm việc nhé!",
+            "time": "11/07/2025 07:00:01",
+            "attachment": []
+        }
+    ],
+    "61573179532897": [
+        {
+            "type": "message",
+            "name": "TrHoang M.Hiền",
+            "message": "Đc r kìa anh",
+            "time": "13/07/2025 10:00:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "TrHoang M.Hiền",
+            "message": "=))",
+            "time": "13/07/2025 10:00:55",
+            "attachment": []
+        }
+    ]
+}

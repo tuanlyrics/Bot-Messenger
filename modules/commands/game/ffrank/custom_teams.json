@@ -1,0 +1,30 @@
+[
+    {
+        "teamName": "WAG",
+        "playerIds": [
+            "9283331754"
+        ],
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/cache/custom_logo_WAG.png"
+    },
+    {
+        "teamName": "WAG DUY",
+        "playerIds": [
+            "10483647782"
+        ],
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/cache/custom_logo_WAG_DUY.png"
+    },
+    {
+        "teamName": "WAG HIEU",
+        "playerIds": [
+            "1961975844"
+        ],
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/cache/custom_logo_WAG_HIEU.png"
+    },
+    {
+        "teamName": "WAG Minh",
+        "playerIds": [
+            "2631733815"
+        ],
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/cache/custom_logo_WAG_Minh.png"
+    }
+]

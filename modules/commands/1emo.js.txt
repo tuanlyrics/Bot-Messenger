@@ -1,0 +1,210 @@
+const insultList = [
+  "Lồn mẹ mày 🖕",
+  "Đéo ai rảnh tiếp mày",
+  "Mày ngu như lồn á",
+  "Sủa ít thôi con chó 🐶",
+  "Bố tát vỡ mồm giờ!",
+  "Đi ngủ đi thằng dẩm",
+  "Mày như cái lồn loe 😑",
+  "Thôi về bú mẹ đi",
+  "Đồ đầu buồi",
+  "Câm mõm lại hộ tao cái",
+  "Sống sao cho đỡ nhục đi con",
+  "Cứt đái gì vậy?",
+  "Địt mẹ mày im đi",
+  "Não mày toàn bã đậu à?",
+  "Nói như mày chó còn nhục",
+  "Mày có não không đấy?",
+  "Cái mặt mày như cái bô",
+  "Tao đấm cho lòi hột le giờ!",
+  "Thằng cặc, mày bị đần à?",
+  "Chửi mày là xúc phạm chó",
+  "Tao block giờ đấy!",
+  "Thằng quần què",
+  "Làm người đéo xong còn sủa?",
+  "Mày ăn cứt hay gì vậy?",
+  "Tao mà thấy mày ngoài đời...",
+  "Cái mặt như cái lồn nở hoa 🌸",
+  "Mày hôi như lồn cá khô",
+  "Đứa nào đẻ ra mày ngu thế?",
+  "Cút mẹ mày đi!",
+  "Thằng óc cặc",
+  "Địt mẹ mày nín đi!",
+  "Câm hộ tao phát đi!",
+  "Tao rảnh lắm mà ngồi đọc cc mày viết?",
+  "Dẹp mẹ mày đi thằng đú",
+  "Nghĩ kỹ rồi hãy sủa nhé!",
+  "Văn mày như đầu buồi!",
+  "Mày có biết nhục là gì không?",
+  "Chó sủa còn có điểm dừng",
+  "Mày đang chọc bố mày đấy",
+  "Mày xứng đáng bị đá vỡ bi",
+  "Mẹ mày chắc khóc khi đẻ mày",
+  "Sống sao để đừng làm nhục dòng họ mày nữa!",
+  "Ngu mà hay sủa lắm",
+  "Bớt bốc cứt lên mồm dùm cái",
+  "Mày nói gì, tao nghe thấy mùi lồn",
+  "Mày là con tinh trùng lạc",
+  "Nói chuyện như đấm vào tai",
+  "Óc chó phiên bản lỗi",
+  "Tao không biết nói sao ngoài chửi",
+  "Cút, đồ vô dụng!",
+  "Mày óc lồn vl",
+  "Cái thứ hãm lồn",
+  "Cút lẹ không tao tẩn",
+  "Còn sủa nữa là bố đấm",
+  "Mày như cái băng vệ sinh cũ",
+  "Tao muốn nhổ nước miếng vô mặt mày!",
+  "Con cặc nói chuyện còn logic hơn mày",
+  "Biến mẹ đi cho trong lành",
+  "Tao khinh",
+  "Mày nên dừng cái lồn lại",
+  "Mày sống lỗi thế?",
+  "Sao mày không bị tai nạn nhỉ?",
+  "Ngu tới mức khó cứu",
+  "Đời mày đéo ai tiếc đâu",
+  "Con người mà như con lồn",
+  "Cút mẹ mày đi",
+  "Im cái lồn lại",
+  "Ngậm địt mẹ mày vào",
+  "Lồn mẹ mày rảnh ha?",
+  "Óc lồn đéo ai sánh",
+  "Não chó à?",
+  "Làm màu cái lồn",
+  "Gây cái lồn gì?",
+  "Ngu vãi lồn",
+  "Xàm lol thế?",
+  "Biến, thằng lồn",
+  "Tởm vãi đái",
+  "Đồ cặc chó",
+  "Tắt mẹ mồm đi",
+  "Mẹ mày chửi mày kìa",
+  "Mở mồm là thấy lồn",
+  "Chó dại còn khôn hơn mày",
+  "Sủa ít thôi con lồn",
+  "Đừng thể hiện cái ngu",
+  "Chó đẻ mới ra mày",
+  "Mày là cái gì trong xã hội này?",
+  "Lồn đéo biết ngượng",
+  "Mồm mày thối quá",
+  "Sống hèn thế à?",
+  "Nghe ói luôn á",
+  "Ngu sinh thái",
+  "Cái giống đéo ai ưa",
+  "Lên mạng ảo tưởng sức mạnh à?",
+  "Rảnh háng không có việc làm?",
+  "Thấy mặt mày tao muốn ói",
+  "Loại mày cho ăn cũng nhục",
+  "Thân mày chả đáng 1 xu",
+  "Đừng lạm dụng internet",
+  "Tao khinh cỡ mày luôn",
+  "Chửi mày phí băng thông",
+  "Óc chó cạp mạng",
+  "Cút lẹ thằng não bò",
+  "Mày như cái lồn bị khâu lại",
+  "Địt mẹ mày là nhẹ đấy",
+  "Lồn gì cũng sủa",
+  "Ngu quá không cứu được",
+  "Óc cứt đi lạc",
+  "Mẹ mày đẻ mày làm gì?",
+  "Cút ra chỗ khác sủa",
+  "Mày sinh ra để gánh nhục à?",
+  "Tao nhổ vào mặt mày đấy",
+  "Ngồi im đi cho sạch không khí",
+  "Mày ngu như bò đội nón",
+  "Chửi mày là phí nước bọt",
+  "Câm đi thằng đầu buồi",
+  "Mày là đồ lồn nhão"
+  // Thêm tiếp dưới đây...
+];
+
+const axios = require("axios");
+const spamData = new Map();
+
+module.exports.config = {
+  name: "echoemoji",
+  version: "1.0.0",
+  hasPermssion: 0,
+  credits: "pcoder",
+  description: "Bot sẽ tự động phản hồi emoji nếu người dùng gửi 1 emoji duy nhất, kèm chửi nhẹ",
+  commandCategory: "Tiện ích",
+  usages: "",
+  cooldowns: 0
+};
+
+// Gọi Gemini
+async function callGemini(prompt) {
+  try {
+    const response = await axios.post(
+      "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAIrHT8PlzLDfRwV3HAwcTapkILpH322So",
+      {
+        contents: [
+          {
+            parts: [{ text: prompt }]
+          }
+        ]
+      },
+      {
+        headers: {
+          "Content-Type": "application/json"
+        }
+      }
+    );
+    const result = response.data.candidates?.[0]?.content?.parts?.[0]?.text;
+    return result || "Mày sủa như chó điên!";
+  } catch (err) {
+    console.error("Gemini error:", err?.response?.data || err.message);
+    return "Lỗi gọi AI, thôi tao tự chửi: Mày ngu vãi lìn!";
+  }
+}
+
+
+
+module.exports.handleEvent = async function ({ event, api }) {
+  const { body, threadID, messageID, senderID, type, messageReply } = event;
+  if (senderID == api.getCurrentUserID()) return;
+
+  // Kiểm tra xem user có bị block tạm không
+  const userData = spamData.get(senderID);
+  const now = Date.now();
+
+  // Nếu user bị block và chưa hết 1 phút
+  if (userData?.blockedUntil && userData.blockedUntil > now) {
+    return; // Bỏ qua không phản hồi
+  }
+
+  // Nếu là emoji và đúng emoji nhóm
+  if (type === "message" && body && !messageReply) {
+    const info = await api.getThreadInfo(threadID);
+    if (body === info.emoji) {
+      const insult = insultList[Math.floor(Math.random() * insultList.length)];
+      return api.sendMessage(`${body} ${insult}`, threadID, messageID);
+    }
+  }
+
+  // Nếu là reply vào bot
+  if (messageReply && messageReply.senderID == api.getCurrentUserID()) {
+    // Tăng số lần dùng
+    let userSpam = spamData.get(senderID) || { count: 0, blockedUntil: 0 };
+    userSpam.count += 1;
+
+    // Nếu quá 5 lần → block 1 phút
+    if (userSpam.count > 5) {
+      userSpam.blockedUntil = now + 60 * 1000; // block 1 phút
+      userSpam.count = 0;
+      spamData.set(senderID, userSpam);
+      return api.sendMessage("⚠️ Mày spam nhiều quá, đi bú đá đi", threadID, messageID);
+    }
+
+    // Lưu lại và tiếp tục xử lý
+    spamData.set(senderID, userSpam);
+
+    // Gọi Gemini AI
+    const prompt = `Một người vừa nói: "${body}". Hãy chửi lại cực gắt bằng giọng chợ búa, tục tĩu, giận dữ, xúc phạm, không cần lịch sự, giống dân anh chị.`;
+    const geminiReply = await callGemini(prompt);
+    return api.sendMessage(`Biết cặc gì mà nói:\n${geminiReply}`, threadID, messageID);
+  }
+};
+
+module.exports.run = () => {};
+module.exports.run = () => {};

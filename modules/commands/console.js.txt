@@ -1,0 +1,145 @@
+const chalk = require("chalk");
+const moment = require("moment-timezone");
+const gradient = require("gradient-string");
+
+// Bảng màu pastel
+const pastelColors = [
+  ["#ffffff", "#ccf2ff", "#e0ccff"],
+  ["#ffe0f0", "#fff4cc", "#ccffeb"],
+  ["#e6e6fa", "#f0fff0", "#ffe4e1"],
+  ["#fafad2", "#e0ffff", "#f5f5dc"],
+  ["#f0f8ff", "#d8bfd8", "#f5fffa"],
+  ["#fffacd", "#e6ffe6", "#ffe4e1"],
+  ["#f0ffff", "#f5f5dc", "#f0f8ff"]
+];
+
+// Cache để lưu thông tin user và thread
+const cache = {
+  users: new Map(),
+  threads: new Map(),
+  timestamp: new Map()
+};
+
+const CACHE_TIME = 30 * 60 * 1000; // 30 phút
+
+function getRandomGradient() {
+  const colors = pastelColors[Math.floor(Math.random() * pastelColors.length)];
+  return gradient(colors);
+}
+
+function printColoredLog(line) {
+  const gradientFunc = getRandomGradient();
+  console.log(gradientFunc(line));
+}
+
+// Hàm lấy thông tin user có cache
+async function getUserName(api, Users, senderID) {
+  const now = Date.now();
+  const cached = cache.users.get(senderID);
+  
+  // Kiểm tra cache còn hiệu lực
+  if (cached && (now - cache.timestamp.get(`user_${senderID}`) < CACHE_TIME)) {
+    return cached;
+  }
+  
+  try {
+    const userName = await Users.getNameUser(senderID);
+    cache.users.set(senderID, userName);
+    cache.timestamp.set(`user_${senderID}`, now);
+    return userName;
+  } catch {
+    return "Người lạ";
+  }
+}
+
+// Hàm lấy thông tin thread có cache
+async function getThreadName(api, threadID) {
+  const now = Date.now();
+  const cached = cache.threads.get(threadID);
+  
+  // Kiểm tra cache còn hiệu lực
+  if (cached && (now - cache.timestamp.get(`thread_${threadID}`) < CACHE_TIME)) {
+    return cached;
+  }
+  
+  try {
+    const threadInfo = await api.getThreadInfo(threadID);
+    const threadName = threadInfo.threadName || "Không xác định";
+    cache.threads.set(threadID, threadName);
+    cache.timestamp.set(`thread_${threadID}`, now);
+    return threadName;
+  } catch {
+    return "Không xác định";
+  }
+}
+
+module.exports.config = {
+  name: "console",
+  version: "1.0.9999",
+  hasPermssion: 3,
+  credits: "pcoder",
+  description: "Console gradient pastel ngẫu nhiên, sáng dịu",
+  commandCategory: "Admin",
+  usages: "console",
+  cooldowns: 30
+};
+
+module.exports.handleEvent = async function ({ api, Users, event }) {
+  try {
+    const { threadID, senderID, body } = event;
+    if (senderID == global.data.botID) return;
+
+    const threadSetting = global.data.threadData.get(threadID) || {};
+    if (typeof threadSetting.console !== "undefined" && threadSetting.console === true) return;
+
+    // Lấy thông tin với cache
+    const threadName = await getThreadName(api, threadID);
+    const userName = await getUserName(api, Users, senderID);
+
+    let messageContent = "";
+
+    if (event.type === "message_unsend") {
+      messageContent = `[ĐÃ THU HỒI TIN NHẮN] từ ${userName} (UID: ${senderID})`;
+    } else {
+      if (body && typeof body === "string") {
+        messageContent = body.length > 300 ? `(Tin nhắn quá dài: ${body.length} ký tự)` : body;
+      } else {
+        messageContent = "(Không có văn bản)";
+      }
+
+      if (event.attachments && event.attachments.length > 0) {
+        const typeMap = {
+          photo: "Ảnh",
+          video: "Video",
+          audio: "Âm thanh",
+          file: "Tệp",
+          animated_image: "GIF"
+        };
+        
+        const types = event.attachments.map(att => typeMap[att.type] || att.type);
+        const uniqueTypes = [...new Set(types)];
+        messageContent += ` [Đính kèm: ${uniqueTypes.join(", ")}]`;
+      }
+    }
+
+    const timestamp = moment.tz("Asia/Ho_Chi_Minh").format("HH:mm:ss - DD/MM/YYYY");
+
+    const logLines = [
+      `┌─ ${threadName}`,
+      `├─ 👤 Người dùng: ${userName} | 🆔 ${senderID}`,
+      `├─ 🆔 ID nhóm: ${threadID}`,
+      `├─ 💬 Nội dung:`,
+      `│  ${messageContent}`,
+      `└─ 🕒 Thời gian: ${timestamp}`
+    ];
+
+    for (const line of logLines) {
+      printColoredLog(line);
+    }
+
+  } catch (err) {
+    console.log(chalk.bgRed.white("Lỗi console:"), err);
+  }
+};
+
+module.exports.run = async function () {};

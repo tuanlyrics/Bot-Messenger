@@ -1,0 +1,25 @@
+✖ [ PCODER ]  𝐅𝐚𝐢𝐥 autoadd
+    → Error: Tên module bị trùng với một module mang cùng tên khác!
+    at loadModules (C:\Users\phant\Downloads\Aibiet-main\main.js:456:59)
+    at C:\Users\phant\Downloads\Aibiet-main\main.js:337:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+✖ [ PCODER ]  𝐅𝐚𝐢𝐥 apiriot
+    → Error: Module không đúng định dạng!
+    at loadModules (C:\Users\phant\Downloads\Aibiet-main\main.js:455:107)
+    at C:\Users\phant\Downloads\Aibiet-main\main.js:340:5
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+✖ [ PCODER ]  𝐅𝐚𝐢𝐥 daily
+    → Error: ENOENT: no such file or directory, open 'C:\Users\phant\Downloads\Aibiet-main\modules\pdata\data_dongdev\handle\usages.json'
+    at Object.writeFileSync (node:fs:2380:20)
+    at Object.module.exports.onLoad (C:\Users\phant\Downloads\Aibiet-main\modules\commands\game\daily.js:30:32)
+    at loadModules (C:\Users\phant\Downloads\Aibiet-main\main.js:472:22)
+    at C:\Users\phant\Downloads\Aibiet-main\main.js:340:5
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+✖ [ PCODER ]  𝐅𝐚𝐢𝐥 ffe3
+    → Error: Tên module bị trùng với một module mang cùng tên khác!
+    at loadModules (C:\Users\phant\Downloads\Aibiet-main\main.js:456:59)
+    at C:\Users\phant\Downloads\Aibiet-main\main.js:340:5
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

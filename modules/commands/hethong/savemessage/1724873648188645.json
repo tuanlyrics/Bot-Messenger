@@ -1,0 +1,27 @@
+{
+    "61568945352137": [
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Thiết",
+            "message": "Chạy dùm",
+            "time": "31/08/2025 17:41:07",
+            "attachment": []
+        }
+    ],
+    "100091450334568": [
+        {
+            "type": "message_reply",
+            "name": "Ng Khanh",
+            "message": "đó",
+            "time": "31/08/2025 17:41:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ng Khanh",
+            "message": "qua nhóm kia mới dc",
+            "time": "31/08/2025 17:41:18",
+            "attachment": []
+        }
+    ]
+}

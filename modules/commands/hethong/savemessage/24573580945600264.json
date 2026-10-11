@@ -1,0 +1,138 @@
+{
+    "61576390036665": [
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "Jz",
+            "time": "19/07/2025 12:22:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "Jv",
+            "time": "20/07/2025 18:32:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "Cho vs",
+            "time": "20/07/2025 18:32:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "",
+            "time": "21/07/2025 14:27:59",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=B6hwmAKBZLYQ7kNvwHj5jq6&_nc_oc=AdlLGTKDpJsOsY6XxGi5YDdq13ufzg6-_j5-UjtRQz3lNLmITDdHTe-KKHJKBZ6PxZk&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=NI2H0NuDkwI1rXL5ZYHgFw&oh=00_AfTYvyubGgBD74irx8H6QUO_WZnMn77zA7Dgu-a7VVEA3Q&oe=6883CF4B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "Thua m luon",
+            "time": "21/07/2025 14:28:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "@Ng Khanh",
+            "time": "21/07/2025 14:28:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "Jv",
+            "time": "21/07/2025 15:10:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Guol",
+            "message": "Wow",
+            "time": "21/07/2025 15:10:41",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyen Guol",
+            "message": "ADMIN",
+            "time": "21/07/2025 15:45:29",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyen Guol",
+            "message": "OK",
+            "time": "21/07/2025 15:45:40",
+            "attachment": []
+        }
+    ],
+    "100091450334568": [
+        {
+            "type": "message",
+            "name": "Ng Khanh",
+            "message": "Cc",
+            "time": "21/07/2025 11:44:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ng Khanh",
+            "message": ".menu",
+            "time": "21/07/2025 11:44:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Ng Khanh",
+            "message": "26",
+            "time": "21/07/2025 11:44:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ng Khanh",
+            "message": ".tft",
+            "time": "21/07/2025 11:44:39",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Ng Khanh",
+            "message": "1",
+            "time": "21/07/2025 11:44:47",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Ng Khanh",
+            "message": ".out",
+            "time": "21/07/2025 16:04:27",
+            "attachment": []
+        }
+    ]
+}

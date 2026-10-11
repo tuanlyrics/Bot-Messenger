@@ -1,0 +1,56 @@
+{
+    "100047128875560": [
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "30/11/2025 23:34:51",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "5",
+            "time": "30/11/2025 23:34:53",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "pcoder",
+            "time": "30/11/2025 23:34:56",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "30/11/2025 23:35:05",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1882023259369968",
+                    "filename": "image-1882023259369968",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/590177589_1882023262703301_568458957033714691_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=I3bfPfVQlVkQ7kNvwEOb14g&_nc_oc=AdkzC7lLtdVwjUuJ5kOinR9ngnRK9cT-C0wSHYZatr4yjLQHjvKW-6rjGpODRWYkh4o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wF2EtjljnSEUYgDkfmlrBsvEs5l2g67-v_vZNqyScICZg&oe=6953FBB4",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/590177589_1882023262703301_568458957033714691_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=I3bfPfVQlVkQ7kNvwEOb14g&_nc_oc=AdkzC7lLtdVwjUuJ5kOinR9ngnRK9cT-C0wSHYZatr4yjLQHjvKW-6rjGpODRWYkh4o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wH3jk9f-fPEEahdS7xs0sJyjNzebV3TyDN5e49XG_oRtQ&oe=6953FBB4",
+                    "previewWidth": 280,
+                    "previewHeight": 606,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/590177589_1882023262703301_568458957033714691_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=I3bfPfVQlVkQ7kNvwEOb14g&_nc_oc=AdkzC7lLtdVwjUuJ5kOinR9ngnRK9cT-C0wSHYZatr4yjLQHjvKW-6rjGpODRWYkh4o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wE8Tw3C2Ep-Lw9b4thGaeXnTkovysaSXmxO75L5jxNeYw&oe=6953FBB4",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1039,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/590177589_1882023262703301_568458957033714691_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=I3bfPfVQlVkQ7kNvwEOb14g&_nc_oc=AdkzC7lLtdVwjUuJ5kOinR9ngnRK9cT-C0wSHYZatr4yjLQHjvKW-6rjGpODRWYkh4o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wE8Tw3C2Ep-Lw9b4thGaeXnTkovysaSXmxO75L5jxNeYw&oe=6953FBB4",
+                    "width": 1242,
+                    "height": 2688,
+                    "name": "image-1882023259369968"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "pcoder,sniper",
+            "time": "30/11/2025 23:35:12",
+            "attachment": []
+        }
+    ]
+}

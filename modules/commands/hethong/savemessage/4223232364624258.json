@@ -1,0 +1,64 @@
+{
+    "61568945352137": [
+        {
+            "type": "message",
+            "name": "Nguyễn Thiết",
+            "message": "/menu",
+            "time": "30/08/2025 14:42:40",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Thiết",
+            "message": "4",
+            "time": "30/08/2025 14:42:52",
+            "attachment": []
+        }
+    ],
+    "61579335495578": [
+        {
+            "type": "message",
+            "name": "Nguyễn Thiết",
+            "message": "====== Menu ======\n1. Hệ Thống || có 40 lệnh\n2. Trò Chơi || có 23 lệnh\n3. Random-img || có 21 lệnh\n4. Nhóm || có 20 lệnh\n5. Quản Lí Box || có 18 lệnh\n6. Tiện ích || có 17 lệnh\n7. Công cụ || có 11 lệnh\n8. Tạo ảnh || có 4 lệnh\n9. Spam || có 4 lệnh\n10. Study || có 4 lệnh\n11. Danh sách lệnh || có 2 lệnh\n12. Admin-Hệ Thống || có 1 lệnh\n13. Đóng góp ý kiến || có 1 lệnh\n14. Admin || có 1 lệnh\n╭────╮\n 167 lệnh\n╰────╯\n➜ Reply từ 1 đến 14 để chọn\n➜ Gỡ tự động sau: 60s\n➩ FB: https://www.facebook.com/TatsuYTB",
+            "time": "30/08/2025 14:42:40",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Thiết",
+            "message": "Đi ra chỗ khác chơi 🥹",
+            "time": "30/08/2025 14:42:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Thiết",
+            "message": "『 Nhóm 』\n\n1. afk\n2. antiout\n3. daybot\n4. gheplove\n5. ghép\n6. hemattroi\n7. hi\n8. idbox\n9. in4\n10. listqtv\n11. newbox\n12. ngôn\n13. pay\n14. randommem\n15. randomname\n16. rdcolor\n17. shortcut\n18. thayboi\n19. tikinfo\n20. uidall\n\n\n➩ Reply từ 1 đến 20 để chọn\n➩ Gỡ tự động sau: 60s",
+            "time": "30/08/2025 14:42:53",
+            "attachment": []
+        }
+    ],
+    "100091450334568": [
+        {
+            "type": "message",
+            "name": "Ng Khanh",
+            "message": "ui add nhầm",
+            "time": "30/08/2025 14:42:42",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ng Khanh",
+            "message": "kick hộ",
+            "time": "30/08/2025 14:42:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ng Khanh",
+            "message": "Đưa qtv cái @Nguyễn Thiết",
+            "time": "30/08/2025 14:43:02",
+            "attachment": []
+        }
+    ]
+}

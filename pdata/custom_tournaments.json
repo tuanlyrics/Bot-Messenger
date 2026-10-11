@@ -1,0 +1,1657 @@
+{
+    "24207038452267648": {
+        "autosend": false,
+        "name": "Nguyễn Phát",
+        "surplus": [],
+        "rules": "cac\nCac\nCac\nCac\nCac\nCac",
+        "timeSlots": [
+            {
+                "time": "12h30",
+                "price": "7k",
+                "format": "cpr",
+                "note": "cl",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "7k",
+                "top1": "50k+concac",
+                "top2": "40k+cl",
+                "top3": "30k+cc"
+            }
+        ],
+        "payment": {
+            "accountName": "NGUYEN TRUONG THIEN PHAT",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_24207038452267648.jpg",
+            "bankName": "ZALO",
+            "accountNo": "PAY 0786888655"
+        }
+    },
+    "9986033951475307": {
+        "autosend": false,
+        "name": "[TÀIKON🇻🇳] 7K-8K",
+        "surplus": [],
+        "rules": "🚫Cấm PC-Hack-Dưới Lv 20\n 🚫Tận Dụng Lỗi Game=Hủy Kết Quả\n🚫Không Buff Kill - Team Up\n🚫Không Out Phòng & Không Vào Lẻ\n 🚫Hủy&Phí Trước 1 Tiếng 30p\n» » » 🚫Ra bo tự tử trừ theo mức độ:\n» » » 👉Thấp -5\n» » » 👉Nặng -15\n» » » Tạo phòng đồng giá bank 2k\n» >>Cus 4 lần liên tiếp/1 profile",
+        "timeSlots": [
+            {
+                "time": "12h30",
+                "price": "8k",
+                "format": "cpr",
+                "note": "bxh logo team",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h",
+                "price": "6k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "19h30",
+                "price": "7k",
+                "format": "cpr",
+                "note": "bxh logo team",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "6k",
+        "prizes": [
+            {
+                "price": "8k",
+                "top1": "44k+profile",
+                "top2": "18k+line",
+                "top3": "lineup"
+            },
+            {
+                "price": "7k",
+                "top1": "40k+profile",
+                "top2": "14k+line",
+                "top3": "line"
+            },
+            {
+                "price": "6k",
+                "top1": "31k+line",
+                "top2": "13k+line",
+                "top3": "6k+line"
+            }
+        ],
+        "payment": {
+            "accountName": "NGUYEN QUOC THINH",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_9986033951475307.jpg",
+            "bankName": "MBBANK",
+            "accountNo": "0397452701"
+        }
+    },
+    "23979353868372885": {
+        "autosend": false,
+        "name": "ĐU THÀNH DAT",
+        "surplus": [],
+        "rules": "CHƠI ĐẾN CHẾT",
+        "timeSlots": [
+            {
+                "time": "12h30",
+                "price": "7k",
+                "format": "lọ thủ",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "SUY TƯ",
+                        "paid": true
+                    },
+                    {
+                        "name": "KHUNG H",
+                        "paid": true
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "7k",
+                "top1": "3k",
+                "top2": "6k",
+                "top3": "0k"
+            }
+        ],
+        "payment": {
+            "accountName": "SAIDEPTRON",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_23979353868372885.jpg",
+            "bankName": "MOMO",
+            "accountNo": "0123456789"
+        }
+    },
+    "10063414873723599": {
+        "autosend": false,
+        "name": "DOÃN THIẾT CAI DÙ",
+        "rules": "» » 🚫Cấm PC-Hack-Dưới Lv 20\n» » 🚫Tận Dụng Lỗi Game=Hủy Kết Quả\n» » 🚫Không Buff Kill - Team Up\n» » 🚫Không Out Phòng & Không Vào Lẻ",
+        "timeSlots": [
+            {
+                "time": "19H30",
+                "price": "0K",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "0k",
+                "top1": "0k",
+                "top2": "0k",
+                "top3": "0k"
+            }
+        ],
+        "payment": {
+            "accountName": "NGUYỄN DOÃN THIẾT",
+            "method": "Ngân hàng",
+            "accountNo": "0334164700",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "24424231737173282": {
+        "autosend": false,
+        "name": "BOX CUS FREE BXH ĐẸP",
+        "rules": "Luật Cus ⚠️  \n ❌️Cấm sử dụng Hack + Phần mềm thứ 3 + Team Up, tận dụng lỗi game, góc lag,....\n🚫 Không sử dụng \n🚫LV 20 trở lên, rank đồng\n🚫 Team up , buff bẩn\n 🚫 Phát Hiện Hủy Giải Đấu \n🚫 Xúc phạm ban tổ chức\n_ _ _ _ _ _ _ _ _ _:_ _ _ _\n❗️👉LƯU Ý : :VÀO TEAM 4 KHÔNG VÀO LẺ",
+        "timeSlots": [
+            {
+                "time": "8H",
+                "price": "FREE",
+                "format": "BXH ĐẸP 8H FREE",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "BTC ĐẸP TRAI",
+                        "paid": true
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "0k",
+                "top1": "0k+lineup",
+                "top2": "N/A",
+                "top3": "N/A"
+            },
+            {
+                "price": "0k",
+                "top1": "0k+lineup",
+                "top2": "N/A",
+                "top3": "N/A"
+            }
+        ],
+        "payment": {
+            "accountName": "NGUYEN TRUONG THIEN PHAT",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_24424231737173282.jpg",
+            "accountNo": "Không có",
+            "bankName": "MOMO/ZALOPAY"
+        }
+    },
+    "31348409941416562": {
+        "autosend": false,
+        "name": "SCRIM 24 TEAM SEASON 2",
+        "rules": "📜 LUẬT CHƠI\n» Luật Cus ⚠️\n» ❌️Cấm sử dụng Hack + Phần mềm thứ 3 + Team Up, tận dụng lỗi game, góc lag,....\n» 🚫 Không sử dụng\n» 🚫LV 20 trở lên, rank đồng\n» 🚫 Team up , buff bẩn\n» 🚫 Phát Hiện Hủy Giải Đấu\n» 🚫 Xúc phạm ban tổ chức\n» _ _ _ _ _ _ _ _ _ _:_ _ _ _\n» ❗️👉LƯU Ý : :VÀO TEAM 4 KHÔNG VÀO LẺ",
+        "timeSlots": [
+            {
+                "time": "20h",
+                "price": "0k",
+                "format": "CPR 20H SCRIM",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "0k",
+                "top1": "0k+line 0k top1 0k+line",
+                "top2": "N/A",
+                "top3": "N/A"
+            }
+        ],
+        "payment": {
+            "accountName": "SCRIM 24 TEAM SEASON 2",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_31348409941416562.jpg",
+            "accountNo": "Không có",
+            "bankName": "MOMO/ZALOPAY"
+        }
+    },
+    "24229784279991907": {
+        "autosend": false,
+        "name": "BOX CUS TD 6K",
+        "rules": "⚠️⚠️⚠️⚠️LUẬT⚠️⚠️⚠️⚠️\n» 🚫Cấm PC-Hack-Dưới Lv 20\n» 🚫Tận Dụng Lỗi Game=Hủy Kết Quả\n» 🚫Không Buff Kill - Team Up\n» 🚫Không Out Phòng & Không Vào Lẻ",
+        "timeSlots": [
+            {
+                "time": "10h00",
+                "price": "6k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "NHẬT CƯỜNG (tp)",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "13h00",
+                "price": "6k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "NHẬT CƯỜNG (tp)",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20h00",
+                "price": "6k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "DO NAM THANH (tp)",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "6k",
+        "prizes": [
+            {
+                "price": "6k",
+                "top1": "30k",
+                "top2": "13k",
+                "top3": "7k"
+            },
+            {
+                "price": "8k",
+                "top1": "45k",
+                "top2": "16k",
+                "top3": "8k"
+            }
+        ],
+        "payment": {
+            "accountName": "HUYNH ANH TRIET",
+            "method": "Ngân hàng",
+            "accountNo": "0853550501",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "24309837591972855": {
+        "autosend": false,
+        "name": "ĐẠI LÂM",
+        "rules": "⚠️⚠️⚠️⚠️LUẬT⚠️⚠️⚠️⚠️\n» 🚫Cấm PC-Hack-Dưới Lv 20\n» 🚫Tận Dụng Lỗi Game=Hủy Kết Quả\n» 🚫Không Buff Kill - Team Up\n» 🚫Không Out Phòng - Không Vào Lẻ\n» 🚫HỦY - PHÍ TRƯỚC 2H",
+        "timeSlots": [
+            {
+                "time": "13h00",
+                "price": "8k",
+                "format": "cpr",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "Văn Huy",
+                        "paid": false
+                    },
+                    {
+                        "name": "Thế Vinh",
+                        "paid": true
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h10",
+                "price": "8k",
+                "format": "cpr",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20h00",
+                "price": "8k",
+                "format": "cpr",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "22H10",
+                "price": "8k",
+                "format": "cpt",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "4k",
+        "prizes": [
+            {
+                "price": "8k",
+                "top1": "40",
+                "top2": "16",
+                "top3": "8"
+            }
+        ],
+        "payment": {
+            "accountName": "VO DAI LAM",
+            "method": "Ngân hàng",
+            "accountNo": "0777212094",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "24051462454545381": {
+        "autosend": true,
+        "name": "FEEE",
+        "surplus": [],
+        "rules": "TEST\nTEST",
+        "timeSlots": [
+            {
+                "time": "12h00",
+                "price": "7k",
+                "format": "cpr",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "LUÂN CU",
+                        "paid": true
+                    },
+                    {
+                        "name": "son",
+                        "paid": false
+                    },
+                    {
+                        "name": "lê quang mọi",
+                        "paid": false
+                    },
+                    {
+                        "name": "son",
+                        "paid": false
+                    },
+                    {
+                        "name": "son 5slot",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "0k",
+                "top1": "7k",
+                "top2": "18k",
+                "top3": "9k"
+            }
+        ],
+        "payment": {
+            "accountName": "NGO THI CHIEN",
+            "method": "Ngân hàng",
+            "accountNo": "0966514684",
+            "bankName": "BIDV",
+            "acqId": "970418"
+        }
+    },
+    "24056393877358233": {
+        "autosend": false,
+        "name": "CUS DT 8K",
+        "surplus": [],
+        "rules": "📌MỐC 60Đ KÍCH HOẠT CHAMPOINT RUSH \n📌THI ĐẤU ĐỐI ĐA 6 MAP : QS - TĐ - SM - TK - MT - BM\n\n🔥Nghiêm Cấm Các Hành Vi❌\n🚫Cấm vô lẻ ( xin tag trước ko rep = kick tự chịu ) \n🚫Cấm Hack✅\n🚫Cấm Team Up✅\n🚫Level trên 20✅\n⛔️K Tận Dụng Lỗi Game✅\n⛔️Phát Hiện Hành Vi Thứ Ba=Huỷ Kq6 trận✅",
+        "timeSlots": [
+            {
+                "time": "13H00",
+                "price": "8K",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "BTC(tp)",
+                        "paid": false
+                    },
+                    {
+                        "name": "minh hải",
+                        "paid": false
+                    },
+                    {
+                        "name": "tuấn tú",
+                        "paid": false
+                    },
+                    {
+                        "name": "hải Ninh",
+                        "paid": false
+                    },
+                    {
+                        "name": "trần cường",
+                        "paid": false
+                    },
+                    {
+                        "name": "Nguyen Khanh",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20H00",
+                "price": "8K",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "4k",
+        "prizes": [
+            {
+                "price": "8k",
+                "top1": "40k+LINE",
+                "top2": "16k+LINE",
+                "top3": "8k+LINE"
+            }
+        ],
+        "payment": {
+            "accountName": "PHAM DUC THINH",
+            "method": "Ngân hàng",
+            "accountNo": "0123408012009",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "24527911480134937": {
+        "autosend": false,
+        "name": "🇻🇳PVS🇻🇳",
+        "surplus": [],
+        "rules": "🚫Cấm PC-Hack-Dưới Lv 20\n🚫Tận Dụng Lỗi Game=Hủy Kết Quả\n🚫Không Buff Kill - Team Up\n🚫Không Out Phòng & Không Vào Lẻ\n🚫Hủy Trước 1 Tiếng 30p\n🚫Ra bo tự tử trừ theo mức độ:\n👉Thấp -5\n👉Nặng -15",
+        "timeSlots": [
+            {
+                "time": "10h00",
+                "price": "8k",
+                "format": "cpr",
+                "note": "50Đ kích hoạt - BXH Logo Team - CN",
+                "teams": [
+                    {
+                        "name": "Van Phuc",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "13h00",
+                "price": "8k",
+                "format": "cpr",
+                "note": "50Đ kích hoạt - BXH Logo Team",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h00",
+                "price": "8k",
+                "format": "cpr",
+                "note": "50Đ kích hoạ - BXH Logo Team",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "8k",
+                "top1": "42",
+                "top2": "16",
+                "top3": "8"
+            }
+        ],
+        "payment": {
+            "accountName": "PHAM VAN MAU",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_24527911480134937.jpg",
+            "bankName": "MBBANK",
+            "accountNo": "00987953608"
+        }
+    },
+    "9269666173154342": {
+        "autosend": false,
+        "name": "XB",
+        "surplus": [],
+        "rules": "1️⃣ Tối Đa Xin 1 Phút\n2️⃣Tải Đủ Map Thi Đấu - Kh Đủ Kick\n3️⃣ Hủy Trước 1 Tiếng - Sau 1 Tiếng Không Hoàn Phí \n4️⃣ Vô Lẻ Kick -  Bắt Buộc Phải Vô Chung \n5️⃣ Cấm Acc Dưới Level 30\n6️⃣ Team Up - Buff Kill Phát Hiện Hủy Kết Quả\n7️⃣ Cấm PC\n8️⃣ Phí Trước 1 Tiếng\n🔴 4 MAP THI ĐẤU\n1: Đảo Quân Sự \n2: Đảo Thiên Đường \n3: Đảo Sa Mạc \n4: Đảo Thế Kỉ \n*cap kèo 10-20k phí 2k lớn hơn tính thêm \n🔴 Nhận Gạch Card \n20k- 2lượt\n50k-5 lượt",
+        "timeSlots": [
+            {
+                "time": "19h50",
+                "price": "10k",
+                "format": "cpr",
+                "note": "5 map - 50đ kích hoạt - BXH",
+                "teams": [
+                    {
+                        "name": "Nguyễn Đức",
+                        "paid": false
+                    },
+                    {
+                        "name": "Lê Thắng",
+                        "paid": false
+                    },
+                    {
+                        "name": "Hải Dương",
+                        "paid": false
+                    },
+                    {
+                        "name": "Thanh Tuấn",
+                        "paid": false
+                    },
+                    {
+                        "name": "Gia Bảo",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20h00",
+                "price": "5k",
+                "format": "thường",
+                "note": "không",
+                "teams": [
+                    {
+                        "name": "Nguyễn Đức",
+                        "paid": true
+                    },
+                    {
+                        "name": "Phạm Trung Đạt",
+                        "paid": true
+                    },
+                    {
+                        "name": "Linh quang TP",
+                        "paid": true
+                    },
+                    {
+                        "name": "Gia bảo",
+                        "paid": true
+                    },
+                    {
+                        "name": "phat Nguyen",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "21h40",
+                "price": "5k",
+                "format": "thường",
+                "note": "không",
+                "teams": [
+                    {
+                        "name": "Xuân Bắc (tp)",
+                        "paid": false
+                    },
+                    {
+                        "name": "Hữu Thiên",
+                        "paid": false
+                    },
+                    {
+                        "name": "Linh quanh",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "8k",
+                "top1": "40k",
+                "top2": "17k",
+                "top3": "10k"
+            },
+            {
+                "price": "10k",
+                "top1": "60k",
+                "top2": "20k",
+                "top3": "15k"
+            },
+            {
+                "price": "5k",
+                "top1": "25k",
+                "top2": "11k",
+                "top3": "6k"
+            }
+        ],
+        "payment": {
+            "accountName": "VU XUAN BAC",
+            "method": "Ngân hàng",
+            "accountNo": "00409762008",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "31294450283479526": {
+        "autosend": false,
+        "name": "CUSTOM 5K CPR 6 MAP",
+        "surplus": [],
+        "rules": "Ngày: 13/08\n─────────\n📰LUẬT CHƠI\n» » » 🚫Cấm PC-Hack-Dưới Lv 20\n» » » 🚫Tận Dụng Lỗi Game=Hủy Kết Quả\n» » » 🚫Không Buff Kill - Team Up\n» » » 🚫Không Out Phòng & Không Vào Lẻ\n» » » 🚫Hủy&Phí Trước 1 Tiếng 30p\n» » » 🚫Ra bo tự tử trừ theo mức độ:\n------👉Thấp -5\n---- 👉Nặng -1\n----Tạo phòng được giảm 5k.\n---Cus 3 lần liên tiếp/1 profile\n---Tạo phòng được giảm 5k.\n---50đ kích hoạt",
+        "timeSlots": [
+            {
+                "time": "12h30",
+                "price": "5k",
+                "format": "cpr",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "BTC(tp)",
+                        "paid": false
+                    },
+                    {
+                        "name": "IAM ESPORTS",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "19h30",
+                "price": "5k",
+                "format": "cpr",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "5k",
+        "prizes": [
+            {
+                "price": "5k",
+                "top1": "25k",
+                "top2": "N/A",
+                "top3": "N/A"
+            }
+        ],
+        "payment": {
+            "accountName": "LE THANH CONG",
+            "method": "Ngân hàng",
+            "accountNo": "BANK 123456789",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "25218987807692831": {
+        "autosend": false,
+        "name": "Custom 1h 6k champion rush",
+        "surplus": [],
+        "rules": "Bật hack làm chó",
+        "timeSlots": [
+            {
+                "time": "1h",
+                "price": "6k",
+                "format": "cpr\n8h 6k cpr",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "đéo",
+        "prizes": [
+            {
+                "price": "6k",
+                "top1": "32k,top2 12k,top 3  6k",
+                "top2": "12k,top 3  6k",
+                "top3": "N/A"
+            }
+        ],
+        "payment": {
+            "accountName": "VO TRI VIEN",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_25218987807692831.jpg",
+            "bankName": "ZALO",
+            "accountNo": "pay 0338416877"
+        }
+    },
+    "9867282606705948": {
+        "autosend": false,
+        "name": "CUS DANH 6K",
+        "surplus": [],
+        "rules": "KHÔNG BUFF , KHÔNG PMT3",
+        "timeSlots": [
+            {
+                "time": "13h00",
+                "price": "6K",
+                "format": "thuờng",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h00",
+                "price": "6K",
+                "format": "thuờng",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20h00",
+                "price": "6K",
+                "format": "thuờng",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "21h40",
+                "price": "6K",
+                "format": "thuờng",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "6K",
+                "top1": "30K",
+                "top2": "12K",
+                "top3": "6K"
+            }
+        ],
+        "payment": {
+            "accountName": "DUONG DUC ANH",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot2/test/cc/modules/commands/cache/qr_9867282606705948.jpg",
+            "bankName": "MBBANK",
+            "accountNo": "70020109999"
+        }
+    },
+    "24174364082150128": {
+        "autosend": false,
+        "name": "TĐ CHẤT LƯỢNG - UY TÍN",
+        "surplus": [],
+        "rules": "📌PHÍ TRƯỚC 2 TIẾNG 💸\nHỦY TRƯỚC 2 GIỜ ĐỂ ĐƯỢC HOÀN TIỀN\n🎁MAP THI ĐẤU\nGAME 1 QUÂN SỰ 🌸\nGAME 2 THIÊN ĐƯỜNG☘️\nGAME 3 SA MẠC🌲\nGAME 4 THẾ KỈ🌼\nGAME 5 BÌNH MINH \nCHAMPIONRUSH 55Đ\n  💳Nhận GẠCH CARD 20K = 4 CUS\n🌸NHẬN GDTG TCT - CUS\nĐKI 10CUS/TUẦN=1 SL FREE",
+        "timeSlots": [
+            {
+                "time": "13h",
+                "price": "4k",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h",
+                "price": "4k",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20h",
+                "price": "4k",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "2k",
+        "prizes": [
+            {
+                "price": "4k",
+                "top1": "18k+lineup",
+                "top2": "8k+lineup",
+                "top3": "4k+lineup"
+            }
+        ],
+        "payment": {
+            "accountName": "PHAM THANH DAT",
+            "method": "Ngân hàng",
+            "accountNo": "0339949500",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "1350235906604677": {
+        "autosend": false,
+        "name": "CUSTOM CPR TL 4k",
+        "surplus": [],
+        "rules": "𝗕𝗢𝗫 𝗖𝗨𝗦𝗧𝗢𝗠 CPR TL 4k\n\n╭─── 6MAP THI ĐẤU────⭓\n│🗺️QUÂN SỰ - 🗺️THIÊN ĐƯỜNG\n│🗺️SA MẠC   - 🗺️ THẾ KỈ \n│🗺️BÌNH MINH -🗺️ MẶT TRỜI\n│          60Đ KÍCH HOẠT\n                 LUẬT \n- CẤM HACK + TEAM UP\n- LV>20 + CẤM PC\n- CẤM OUT PHÒNG + BUFF\nNẾU PHÁT HIỆN SẼ HỦY KQ\nCÁC TEAM TẢI FULL CÁC MAP THI ĐẤU: QS - TD - SM - TK\n💸 PHÍ TRƯỚC 2 TIẾNG, HỦY TRƯỚC 2 TIẾNG",
+        "timeSlots": [
+            {
+                "time": "13h",
+                "price": "4k",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h",
+                "price": "4K",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20h",
+                "price": "4K",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "21h40",
+                "price": "4k",
+                "format": "CPR",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "8k",
+                "top1": "18k +lineup",
+                "top2": "8k +lineup",
+                "top3": "4k+lineup"
+            }
+        ],
+        "payment": {
+            "accountName": "NGUYEN VAN TRUONG LINH",
+            "method": "Ngân hàng",
+            "accountNo": "0377168983",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "1469774461115500": {
+        "autosend": false,
+        "name": "CUSTOM HB",
+        "surplus": [
+            {
+                "name": "Phat Tường",
+                "count": 32
+            }
+        ],
+        "rules": "BANK BILL\nPhí trước 1g \nhủy trước 1g mất phí tự chịu\nTải full 4 map \nko buff k sử sụng phần mềm thứ 3\n🛸BẢNG ĐIỂM ĐẸP🛸\n😋CẢM ƠN MN ĐÃ ỦNG HỘ😋\n💵NHẬN GẠCH CARD💵",
+        "timeSlots": [
+            {
+                "time": "13H00",
+                "price": "6k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "Trần Minh Hiếu",
+                        "paid": false
+                    },
+                    {
+                        "name": "Phat Tường",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15H00",
+                "price": "4k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "Phát Tường",
+                        "paid": false
+                    },
+                    {
+                        "name": "Phạm Minh Khang",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20H00",
+                "price": "6k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "Lê Hoàng Khangg",
+                        "paid": false
+                    },
+                    {
+                        "name": "Phát Tường",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "21H50",
+                "price": "4k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "AET ESP(Trung Hiếuu)",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "4k",
+                "top1": "23k",
+                "top2": "8k",
+                "top3": "4k"
+            },
+            {
+                "price": "6k",
+                "top1": "32k",
+                "top2": "13k",
+                "top3": "6k"
+            }
+        ],
+        "payment": {
+            "accountName": "PHAN VO HOANG BAO",
+            "method": "Ngân hàng",
+            "accountNo": "59912029999",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    },
+    "24352122841109917": {
+        "autosend": false,
+        "name": "Custom Qh",
+        "surplus": [],
+        "rules": "⚠️⚠️⚠️⚠️LUẬT⚠️⚠️⚠️⚠️\n🚫Cấm PC-Hack-Dưới Lv 20\n🚫Tận Dụng Lỗi Game=Hủy Kết Quả\n🚫Không Buff Kill - Team Up\n🚫Không Out Phòng & Không Vào Lẻ\n🚫Hủy&Phí Trước 1 Tiếng\n(Hủy Sau 1 Tiếng Không Hoàn Tiền)\n🗺️ Tải Map Đầy Đủ 🗺️\n❗ Tới Giờ Bay Không Map= Kick❗\n👉 Map: QS-TĐ-SM-TK\n🍀Cảm Ơn Mọi Người Đã Tin Tưởng\nVà Ủng Hộ🍀\n---------------------------------------------",
+        "timeSlots": [
+            {
+                "time": "8h",
+                "price": "6k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "n",
+        "prizes": [
+            {
+                "price": "6k",
+                "top1": "30k",
+                "top2": "12k",
+                "top3": "6k"
+            }
+        ],
+        "payment": {
+            "accountName": "NGUYEN VIET LONG",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot/modules/commands/cache/qr_24352122841109917.jpg",
+            "bankName": "VÍ",
+            "accountNo": "zalopay 0988968601"
+        }
+    },
+    "9400471726684100": {
+        "autosend": false,
+        "name": "Custom Mt X Taiọki",
+        "surplus": [],
+        "rules": "Cấm Sử Dụng Hack\nCấm Bug Góc Lag\nCấm Out Phòng , Phòng Bay Tự Chịu\nAcc Trên Level 30\nKhông Vô Lẻ , Vô Phòng Phải Trên 3 Người\nHuỷ Và Phí Trước 1Tiếng30P",
+        "timeSlots": [
+            {
+                "time": "13h",
+                "price": "4k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    {
+                        "name": "quốc đạt😣",
+                        "paid": false
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h",
+                "price": "4k",
+                "format": "thường",
+                "note": "",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "2",
+        "prizes": [
+            {
+                "price": "20k",
+                "top1": "8k",
+                "top2": "4k",
+                "top3": "N/A"
+            }
+        ],
+        "payment": {
+            "accountName": "NGONGUYENMINHTRI",
+            "method": "E-Banking",
+            "qrPath": "/root/filebot/modules/commands/cache/qr_9400471726684100.jpg",
+            "bankName": "ZALOPAY",
+            "accountNo": "0986914147"
+        }
+    },
+    "9955145831231964": {
+        "autosend": false,
+        "name": "Thảo Nhi 6K",
+        "surplus": [],
+        "rules": "🍇SÂN CHƠI LÀNH MẠNH ,CẠNH TRANH CAO 🍇\n\n❌Cấm Sử Dụng Hack\n❌Cấm Bug Góc Lag\n❌Cấm Out Phòng , Phòng Bay Tự Chịu\n❌Acc Trên Level 30\n❌Không Vô Lẻ , Vô Phòng Phải Trên 3 Người\n❌Huỷ Và Phí Trước 1Tiếng30P\n\nBắn 4 Map : Quân Sự - Thiên Đường - Sa Mạc - Thế Kỷ",
+        "timeSlots": [
+            {
+                "time": "13h00",
+                "price": "6k",
+                "format": "Thường",
+                "note": "BXH TÊN TEAM",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "15h00",
+                "price": "6k",
+                "format": "thường",
+                "note": "BXH TÊN TEAM",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "20h00",
+                "price": "6k",
+                "format": "thường",
+                "note": "BXH TÊN TEAM",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "time": "21h50",
+                "price": "6k",
+                "format": "thường",
+                "note": "BXH TÊN TEAM",
+                "teams": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "discount": "no",
+        "prizes": [
+            {
+                "price": "6k",
+                "top1": "35k",
+                "top2": "14k",
+                "top3": "6k"
+            }
+        ],
+        "payment": {
+            "accountName": "DO NGOC THAO",
+            "method": "Ngân hàng",
+            "accountNo": "0335906772",
+            "bankName": "MBBank",
+            "acqId": "970422"
+        }
+    }
+}

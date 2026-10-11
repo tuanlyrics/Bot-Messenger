@@ -1,0 +1,137 @@
+{
+    "100047128875560": [
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".rent list",
+            "time": "08/12/2025 22:43:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".rent del 100",
+            "time": "08/12/2025 22:47:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".menu",
+            "time": "08/12/2025 22:47:55",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "14",
+            "time": "08/12/2025 22:48:05",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "2",
+            "time": "08/12/2025 22:48:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".box list",
+            "time": "08/12/2025 22:48:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".menu",
+            "time": "08/12/2025 22:49:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".box",
+            "time": "08/12/2025 22:49:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".allbox",
+            "time": "08/12/2025 22:49:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".boxlist",
+            "time": "08/12/2025 22:49:46",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".outbox",
+            "time": "08/12/2025 22:50:14",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".listbox",
+            "time": "08/12/2025 22:50:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".listbox",
+            "time": "08/12/2025 22:50:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".menu",
+            "time": "08/12/2025 22:50:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".",
+            "time": "16/12/2025 22:46:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".note sailenh.js",
+            "time": "16/12/2025 22:46:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".note sailenh",
+            "time": "16/12/2025 22:46:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".menu",
+            "time": "16/12/2025 22:46:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".note sailenh",
+            "time": "16/12/2025 22:46:45",
+            "attachment": []
+        }
+    ]
+}

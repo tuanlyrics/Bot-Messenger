@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Cache commands
+modules/commands/cache/
+
+# Log & temp
+*.log
+*.tmp
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db

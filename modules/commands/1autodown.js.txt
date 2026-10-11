@@ -1,0 +1,186 @@
+const fs = require('fs');
+const path = require('path');
+const axios = require('axios');
+const { spawn } = require('child_process');
+
+module.exports.config = {
+    name: "autodown",
+    version: "3.0.0", 
+    hasPermssion: 2,
+    credits: "pcoder",
+    description: "Tự động tải media, ưu tiên API, video HD và có fallback qua yt-dlp.",
+    commandCategory: "Tiện ích",
+    usages: "[link]",
+    cooldowns: 5,
+    usePrefix: true
+};
+
+const apiDomains = [
+/9gag\.com/, /bilibili\.com/, /bitchute\.com/, /bluesky\.app/, /capcut\.com/, /dailymotion\.com/, /douyin\.com/, /facebook\.com/, /fb\.watch/, /fb\.com/, /febspot\.com/, /hipi\.co\.in/, /ifunny\.co/, /imdb\.com/, /imgur\.com/, /instagram\.com/, /izlesene\.com/, /ixigua\.com/, /kuaishou\.com/, /likee\.video/, /linkedin\.com/, /meipai\.com/, /miaopai\.com/, /ok\.ru/, /pinterest\.com/, /qq\.com/, /reddit\.com/, /rumble\.com/, /sharechat\.com/, /snapchat\.com/, /sina\.com\.cn/, /sohu\.com/, /streamable\.com/, /ted\.com/, /telegram\.org/, /t\.me/, /threads\.net/, /tiktok\.com/, /tumblr\.com/, /twitter\.com/, /x\.com/, /vimeo\.com/, /vk\.com/, /vk\.ru/, /weibo\.com/, /xiaohongshu\.com/, /xiaoying\.tv/, /yingke\.com/, /youtube\.com/, /youtu\.be/, /bandcamp\.com/, /deezer\.com/, /mixcloud\.com/, /soundcloud\.com/, /on\.soundcloud\.com/, /spotify\.com/, /zingmp3\.vn/, /espn\.com/, /getstickerpack\.com/, /xvideos\.com/, /xnxx\.com/, /pornbox\.com/
+];
+
+function shouldUseApi(url) {
+    return apiDomains.some(domain => domain.test(url));
+}
+
+module.exports.handleEvent = async function ({ api, event }) {
+    if (!event.body) return;
+    const match = event.body.match(/(https?:\/\/[^\s<>"']+)/);
+    if (!match) return;
+    let url = match[0];
+
+    try {
+        const urlObject = new URL(url);
+        if (urlObject.hostname === 'l.facebook.com' && urlObject.pathname === '/l.php') {
+            const realUrl = urlObject.searchParams.get('u');
+            if (realUrl) url = decodeURIComponent(realUrl);
+        }
+    } catch (e) {
+        console.error("Lỗi khi phân tích URL:", e);
+        return;
+    }
+
+    if (shouldUseApi(url)) {
+        api.setMessageReaction("⏳", event.messageID, null, true);
+        await downloadWithApi({ api, event, url });
+    }
+};
+
+async function downloadWithApi({ api, event, url }) {
+    try {
+        const response = await axios.get(`https://j2down.vercel.app/download?url=${encodeURIComponent(url)}`);
+        const data = response.data;
+
+        if (!data || !data.medias || data.medias.length === 0) {
+            throw new Error("API không trả về media hợp lệ, thử bằng yt-dlp.");
+        }
+
+        let messageBody = `📥 AUTO DOWNLOAD 📥\n\n`;
+        if (data.title) messageBody += `🎬 𝗧𝗶𝗲̂𝘂 đ𝗲̂̀: ${data.title}\n`;
+
+        if (data.source === 'tiktok' && data.author) {
+            messageBody += `🧑‍💼 𝗧𝗮́𝗰 𝗴𝗶𝗮̉: ${data.author} (@${data.unique_id})\n`;
+        } else if (data.author?.nickname) {
+            messageBody += `🧑‍💼 𝗧𝗮́𝗰 𝗴𝗶𝗮̉: ${data.author.nickname}\n`;
+        }
+
+        if (data.duration) messageBody += `⏱️ 𝗧𝗵𝗼̛̀𝗶 𝗹𝘂̛𝗼̛̣𝗻𝗴: ${new Date(data.duration * 1000).toISOString().substr(11, 8)}\n`;
+        if (data.statistics?.viewCount) messageBody += `👁️‍🗨️ 𝗟𝘂̛𝗼̛̣𝘁 𝘅𝗲𝗺: ${data.statistics.viewCount.toLocaleString('vi-VN')}\n`;
+        if (data.statistics?.likeCount) messageBody += `❤️ 𝗟𝘂̛𝗼̛̣𝘁 𝘁𝗵𝗶́𝗰𝗵: ${data.statistics.likeCount.toLocaleString('vi-VN')}\n`;
+        if (data.description) messageBody += `\n📝 𝗠𝗼̂ 𝘁𝗮̉:\n${data.description.slice(0, 200)}...`;
+
+        const attachments = [];
+        const videos = data.medias.filter(m => m.type === 'video');
+        let chosenMedia = null;
+
+        if (videos.length > 0) {
+            chosenMedia = videos.find(v => v.quality === 'hd_no_watermark') || videos.find(v => v.quality === 'no_watermark') || videos[0];
+        } else {
+            chosenMedia = data.medias.find(m => m.type === 'audio');
+        }
+
+        if (!chosenMedia) {
+            throw new Error("Không tìm thấy media phù hợp để tải.");
+        }
+
+        const ext = chosenMedia.type === 'audio' ? 'mp3' : (chosenMedia.extension || 'mp4');
+        const filePath = path.join(__dirname, '..', '..', 'cache', `api_${Date.now()}.${ext}`);
+        const attachmentStream = await downloadFile(chosenMedia.url, filePath);
+        attachments.push(attachmentStream);
+
+        if (attachments.length === 0) {
+            throw new Error("Không tải được file đính kèm từ API.");
+        }
+
+        api.sendMessage({ body: messageBody, attachment: attachments }, event.threadID, (err) => {
+            if (err) console.error(err);
+            api.setMessageReaction(err ? "⚠️" : "✅", event.messageID, null, true);
+        }, event.messageID);
+
+    } catch (error) {
+        console.error(`Lỗi API: ${error.message}. Đang chuyển qua yt-dlp...`);
+        api.sendMessage(`⚠️ API không thể xử lý link này, đang thử bằng phương thức dự phòng...`, event.threadID, event.messageID);
+        await downloadWithYtDlp({ api, event, url });
+    }
+}
+
+async function downloadWithYtDlp({ api, event, url }) {
+    try {
+        const infoProcess = spawn('yt-dlp', ['-j', url]);
+        let jsonData = '';
+        infoProcess.stdout.on('data', (data) => { jsonData += data.toString(); });
+        infoProcess.stderr.on('data', (data) => { console.error(`yt-dlp stderr info: ${data}`); });
+
+        infoProcess.on('close', async (code) => {
+            if (code !== 0) {
+                api.sendMessage(`❌ không thể lấy thông tin từ link này.`, event.threadID, event.messageID);
+                return api.setMessageReaction("❌", event.messageID, null, true);
+            }
+            try {
+                const info = JSON.parse(jsonData);
+                let messageBody = `📥 AUTO DOWNLOAD (YT-DLP) 📥\n\n`;
+                messageBody += `🎬 𝗧𝗶𝗲̂𝘂 đ𝗲̂̀: ${info.title || 'Không có'}\n`;
+                messageBody += `🧑‍💼 𝗧𝗮́𝗰 𝗴𝗶𝗮̉: ${info.uploader || 'Không rõ'}\n`;
+                if (info.duration) messageBody += `⏱️ 𝗧𝗵𝗼̛̀𝗶 𝗹𝘂̛𝗼̛̣𝗻𝗴: ${new Date(info.duration * 1000).toISOString().substr(11, 8)}\n`;
+                if (info.view_count) messageBody += `👁️‍🗨️ 𝗟𝘂̛𝗼̛̣𝘁 𝘅𝗲𝗺: ${info.view_count.toLocaleString('vi-VN')}\n`;
+                if (info.like_count) messageBody += `❤️ 𝗟𝘂̛𝗼̛̣𝘁 𝘁𝗵𝗶́𝗰𝗵: ${info.like_count.toLocaleString('vi-VN')}\n`;
+                if (info.description) messageBody += `\n📝 𝗠𝗼̂ 𝘁𝗮̉:\n${info.description.slice(0, 200)}...`;
+
+                const saveName = `ytdlp_${Date.now()}`;
+                const outPath = path.join(__dirname, '..', '..', 'cache', `${saveName}.%(ext)s`);
+                const downloadProcess = spawn('yt-dlp', ['-o', outPath, '--max-filesize', '100M', url]);
+
+                downloadProcess.on('close', async (downloadCode) => {
+                    if (downloadCode !== 0) {
+                        api.sendMessage(`❌ tải về thất bại (file có thể quá lớn 100MB).`, event.threadID, event.messageID);
+                        return api.setMessageReaction("❌", event.messageID, null, true);
+                    }
+                    const cacheDir = path.join(__dirname, '..', '..', 'cache');
+                    const files = fs.readdirSync(cacheDir).filter(f => f.startsWith(saveName));
+                    if (files.length === 0) {
+                        api.sendMessage(`❓ Không tìm thấy tệp đã tải về`, event.threadID, event.messageID);
+                        return api.setMessageReaction("❓", event.messageID, null, true);
+                    }
+                    const attachments = files.map(f => {
+                        const filePath = path.join(cacheDir, f);
+                        setTimeout(() => fs.unlink(filePath, () => {}), 120 * 1000);
+                        return fs.createReadStream(filePath);
+                    });
+                    api.sendMessage({ body: messageBody, attachment: attachments }, event.threadID, (err) => {
+                        if (err) console.error(err);
+                        api.setMessageReaction(err ? "⚠️" : "✅", event.messageID, null, true);
+                    }, event.messageID);
+                });
+            } catch (e) {
+                console.error("Lỗi parse JSON từ yt-dlp:", e);
+                api.sendMessage(`❌ Lỗi xử lý dữ liệu`, event.threadID, event.messageID);
+                api.setMessageReaction("❌", event.messageID, null, true);
+            }
+        });
+    } catch (e) {
+        console.error('Lỗi nghiêm trọng khi chạy yt-dlp:', e);
+        api.sendMessage(`❌ Lỗi nghiêm trọng khi chạy`, event.threadID, event.messageID);
+        api.setMessageReaction("❌", event.messageID, null, true);
+    }
+}
+
+async function downloadFile(url, savePath) {
+    const writer = fs.createWriteStream(savePath);
+    const response = await axios({ url, method: 'GET', responseType: 'stream' });
+    response.data.pipe(writer);
+    return new Promise((resolve, reject) => {
+        writer.on('finish', () => {
+            setTimeout(() => fs.unlink(savePath, () => {}), 120 * 1000);
+            resolve(fs.createReadStream(savePath));
+        });
+        writer.on('error', reject);
+    });
+}
+
+module.exports.run = async function ({ api, event }) {
+    return api.sendMessage(
+        '🎦 **AUTODOWN v3.0**\n\nModule tự động tải xuống media từ các link. Chỉ cần gửi link vào nhóm, bot sẽ tự động xử lý.',
+        event.threadID,
+        event.messageID
+    );
+};

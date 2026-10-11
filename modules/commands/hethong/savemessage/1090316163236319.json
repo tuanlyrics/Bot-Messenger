@@ -1,0 +1,46 @@
+{
+    "100047128875560": [
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "",
+            "time": "23/08/2025 01:18:29",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "1270066024121734",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/468936080_1270066030788400_5461386079341383184_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=SeZZdeFOn8wQ7kNvwHjVMbQ&_nc_oc=AdliL8kZvvwNf6CgvQO6xbrlKagyYpRzxe1Gzjw13dMwQoAt5SQ99s8k9EivLXHly5U&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=Qexg_CfaeFTZxcFYLCu-2Q&oh=00_AfXOOXgBfpmXRvqnC4s9kXdE9ofCJ4a3l2Cqfjj6FfXoGQ&oe=68AE7437",
+                    "packID": "1266059141189089",
+                    "spriteUrl": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/468844770_1270066027455067_5525858758192118639_n.png?stp=dst-png_s2048x2048&_nc_cat=109&ccb=1-7&_nc_sid=ba09c1&_nc_ohc=x123n1kUJxAQ7kNvwFY2wH2&_nc_oc=Adn4d_a5TWYDCpjXwFL2dpqjd3_2z42gfTzQbeTQF6VfLbXwGx1eHCnc6QmSMDIaR_c&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=Qexg_CfaeFTZxcFYLCu-2Q&oh=00_AfUsLRGgfYjVzP8FgiUTzeq5AP-JNUHjE0zydGKdg1vGLQ&oe=68AE6BE2"
+                    },
+                    "spriteUrl2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/468844770_1270066027455067_5525858758192118639_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ba09c1&_nc_ohc=x123n1kUJxAQ7kNvwFY2wH2&_nc_oc=Adn4d_a5TWYDCpjXwFL2dpqjd3_2z42gfTzQbeTQF6VfLbXwGx1eHCnc6QmSMDIaR_c&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=Qexg_CfaeFTZxcFYLCu-2Q&oh=00_AfW2xl6HWdwubbYA8u4hV92oakFed4TbNHgzjwT97-DWRQ&oe=68AE6BE2"
+                    },
+                    "width": 240,
+                    "height": 240,
+                    "caption": "A blue swallow bird lies comfortably on the ground, wearing an eye mask with eyes on it, fast asleep, conveying relaxation and tranquility.",
+                    "description": "A blue swallow bird lies comfortably on the ground, wearing an eye mask with eyes on it, fast asleep, conveying relaxation and tranquility.",
+                    "frameCount": 108,
+                    "frameRate": 33,
+                    "framesPerRow": 11,
+                    "framesPerCol": 10,
+                    "stickerID": "1270066024121734",
+                    "spriteURI": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/468844770_1270066027455067_5525858758192118639_n.png?stp=dst-png_s2048x2048&_nc_cat=109&ccb=1-7&_nc_sid=ba09c1&_nc_ohc=x123n1kUJxAQ7kNvwFY2wH2&_nc_oc=Adn4d_a5TWYDCpjXwFL2dpqjd3_2z42gfTzQbeTQF6VfLbXwGx1eHCnc6QmSMDIaR_c&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=Qexg_CfaeFTZxcFYLCu-2Q&oh=00_AfUsLRGgfYjVzP8FgiUTzeq5AP-JNUHjE0zydGKdg1vGLQ&oe=68AE6BE2"
+                    },
+                    "spriteURI2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/468844770_1270066027455067_5525858758192118639_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ba09c1&_nc_ohc=x123n1kUJxAQ7kNvwFY2wH2&_nc_oc=Adn4d_a5TWYDCpjXwFL2dpqjd3_2z42gfTzQbeTQF6VfLbXwGx1eHCnc6QmSMDIaR_c&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=Qexg_CfaeFTZxcFYLCu-2Q&oh=00_AfW2xl6HWdwubbYA8u4hV92oakFed4TbNHgzjwT97-DWRQ&oe=68AE6BE2"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".",
+            "time": "23/08/2025 01:18:32",
+            "attachment": []
+        }
+    ]
+}

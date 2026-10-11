@@ -1,0 +1,347 @@
+{
+    "61574583956383": [
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❎ Lệnh không tồn tại\n✏️ Lệnh gần giống là: bankqr\n⏰ Bot đã online: 8h 8m 27s\n\n⭐ Thuê bot liên hệ admin:\nhttps://www.facebook.com/61575999835460",
+            "time": "19/11/2025 19:35:51",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🌟 MENU QUẢN LÝ THUÊ BOT 🌟\n\n» .rent info\n   - Xem thông tin thuê của nhóm hiện tại.\n\n» .rent usekey <Mã_Key>\n   - Kích hoạt thuê bot bằng key.\n\n» .rent list\n   - Xem danh sách các nhóm thuê (admin).\n\n» .rent add <số_ngày> [id_nhóm]\n   - Thêm mới hoặc gia hạn nhóm thuê (admin).\n\n» .rent del <STT|GroupID>\n   - Xóa nhóm khỏi danh sách thuê (admin).\n\n» .rent newkey <số_ngày>\n   - Tạo key mới (admin).\n\n» .rent check\n   - Kiểm tra tất cả các key (admin).\n\n» .rent delkey <Tên_Key>\n   - Xóa một key (admin).",
+            "time": "19/11/2025 19:36:08",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "• Hướng dẫn sử dụng:\n.tinhdiem [id] [xoaN] [cprN]\n.tinhdiem [id] [key] [xoaN] [cprN]\n\n• Chú thích:\n  » xoaN: Xóa trận lỗi (N là STT trận, vd: xoa1,2,3)\n  » cprN: Tính CPR (N là điểm CPR cần đạt, vd: cpr41)",
+            "time": "19/11/2025 19:39:10",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🤖 SCORING BOT 🤖\n\n📊 ID: 1886317048\n🎯 Số Trận: 6\n⌛ Khung Giờ: 22:00 | 18/11\n🔑 Key: vh3\n\n🔹 CPR: 60 Điểm",
+            "time": "19/11/2025 19:40:21",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "830762476588403",
+                    "filename": "image-830762476588403",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582009579_830762479921736_8007768658313523883_n.png?stp=cp0_dst-png_p34x34&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vb0cKxrwvtwQ7kNvwElajcc&_nc_oc=Adk8TqERlQC7aJejT62NZTkfkGe6DceHtG2nlDJ7L1iQ8OUmfijB-4TrrwdjFp23mbE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wE-e3i5f2gzndtheRnGik4aNRHuWIhuFlQwCYKddBTZjg&oe=69451D85",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582009579_830762479921736_8007768658313523883_n.png?stp=dst-png_s350x350&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vb0cKxrwvtwQ7kNvwElajcc&_nc_oc=Adk8TqERlQC7aJejT62NZTkfkGe6DceHtG2nlDJ7L1iQ8OUmfijB-4TrrwdjFp23mbE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wF1kJpyh8EQMR7j1PvbL0xPfaxyFSl0WdWBjxF2yQyHXQ&oe=69451D85",
+                    "previewWidth": 280,
+                    "previewHeight": 350,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582009579_830762479921736_8007768658313523883_n.png?stp=dst-png_s600x600&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vb0cKxrwvtwQ7kNvwElajcc&_nc_oc=Adk8TqERlQC7aJejT62NZTkfkGe6DceHtG2nlDJ7L1iQ8OUmfijB-4TrrwdjFp23mbE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wEcwtNDVP2y_ceq2wrmzBQRuLATeSZczc1sDS0qcqcGog&oe=69451D85",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 600,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582009579_830762479921736_8007768658313523883_n.png?stp=dst-png_s600x600&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vb0cKxrwvtwQ7kNvwElajcc&_nc_oc=Adk8TqERlQC7aJejT62NZTkfkGe6DceHtG2nlDJ7L1iQ8OUmfijB-4TrrwdjFp23mbE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wEcwtNDVP2y_ceq2wrmzBQRuLATeSZczc1sDS0qcqcGog&oe=69451D85",
+                    "width": 1638,
+                    "height": 2048,
+                    "name": "image-830762476588403"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❎ Lệnh không tồn tại\n✏️ Lệnh gần giống là: bankqr\n⏰ Bot đã online: 8h 18m 33s\n\n⭐ Thuê bot liên hệ admin:\nhttps://www.facebook.com/61575999835460",
+            "time": "19/11/2025 19:45:57",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "⏳ Đang khởi tạo giao dịch, vui lòng chờ trong giây lát...",
+            "time": "19/11/2025 19:45:58",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❌ Đã có lỗi xảy ra khi tạo mã QR. Vui lòng thử lại sau.",
+            "time": "19/11/2025 19:46:17",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🏦 [ MIRAI BANK ]\n👤 Chủ tài khoản: Đức Phú\n🪪 STK: 7456015028500\n💰 Số dư: 0đ\n📈 Lãi suất: 8.03%\n🕓 Còn 1h 0p để tính lãi\n📅 Tạo lúc: 19:47:03, 19/11/2025",
+            "time": "19/11/2025 19:47:03",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❌ Vui lòng nhập một số tiền hợp lệ (tối thiểu 1,000 VND để đổi lấy lượt).",
+            "time": "19/11/2025 19:47:26",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "⏱ Bạn đang trong thời gian chờ!\n Vui lòng thử lại sau 13.95s nữa nhé!!!",
+            "time": "19/11/2025 19:47:32",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "⏱ Bạn đang trong thời gian chờ!\n Vui lòng thử lại sau 6.672s nữa nhé!!!",
+            "time": "19/11/2025 19:47:39",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "⏳ Đang khởi tạo giao dịch, vui lòng chờ trong giây lát...",
+            "time": "19/11/2025 19:48:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Le Thanh Nghia",
+            "message": "✅ Giao dịch của bạn đã được tạo!\n\n- Ngân hàng: LE THANH NGHIA\n- STK: 5127032006\n- Số tiền: 2.000 VND (sẽ nhận được 2 lượt)\n- Nội dung: pcoderQ69F5J\n\n⚠️ Vui lòng quét mã QR và **CHUYỂN KHOẢN ĐÚNG NỘI DUNG**. Giao dịch sẽ tự hủy sau 5 phút.",
+            "time": "19/11/2025 19:48:19",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "25643614361912542",
+                    "filename": "image-25643614361912542",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582189337_25643614378579207_4294587484112675605_n.png?stp=cp0_dst-png_p34x34&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vS0nTfmxVccQ7kNvwGYsKFe&_nc_oc=AdlzwZdj3gCR2J4tLvOh3JXYMI7kW-s5gnSk4rzXwXuc4t6FYUsuYlHXHGDS-keFJVU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wHZxqvZc6lRrvFHUKA6VYVq3AYbbsjM3S9HYWUwWKTNMw&oe=69453542",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582189337_25643614378579207_4294587484112675605_n.png?stp=dst-png_p280x280&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vS0nTfmxVccQ7kNvwGYsKFe&_nc_oc=AdlzwZdj3gCR2J4tLvOh3JXYMI7kW-s5gnSk4rzXwXuc4t6FYUsuYlHXHGDS-keFJVU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wHiQBAi88VtD0JwkNl1Mcbl9OpmJVnbNEyV1ErsQOcFTw&oe=69453542",
+                    "previewWidth": 280,
+                    "previewHeight": 332,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582189337_25643614378579207_4294587484112675605_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vS0nTfmxVccQ7kNvwGYsKFe&_nc_oc=AdlzwZdj3gCR2J4tLvOh3JXYMI7kW-s5gnSk4rzXwXuc4t6FYUsuYlHXHGDS-keFJVU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wGRmwsBuLQ-1ILtZI7L0uTuheHwNI3a8zMsXT91PXkUvw&oe=69453542",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 569,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582189337_25643614378579207_4294587484112675605_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=vS0nTfmxVccQ7kNvwGYsKFe&_nc_oc=AdlzwZdj3gCR2J4tLvOh3JXYMI7kW-s5gnSk4rzXwXuc4t6FYUsuYlHXHGDS-keFJVU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wGRmwsBuLQ-1ILtZI7L0uTuheHwNI3a8zMsXT91PXkUvw&oe=69453542",
+                    "width": 540,
+                    "height": 640,
+                    "name": "image-25643614361912542"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "⏳ Đang khởi tạo giao dịch, vui lòng chờ trong giây lát...",
+            "time": "19/11/2025 19:53:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Le Thanh Nghia",
+            "message": "✅ Giao dịch của bạn đã được tạo!\n\n- Ngân hàng: LE THANH NGHIA\n- STK: 5127032006\n- Số tiền: 10.000 VND (sẽ nhận được 10 lượt)\n- Nội dung: pcoder9B9QF1\n\n⚠️ Vui lòng quét mã QR và **CHUYỂN KHOẢN ĐÚNG NỘI DUNG**. Giao dịch sẽ tự hủy sau 5 phút.",
+            "time": "19/11/2025 19:53:13",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1346467279859184",
+                    "filename": "image-1346467279859184",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582504438_1346467283192517_4377552331223820184_n.png?stp=cp0_dst-png_p34x34&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=i1WhdZPiQI4Q7kNvwG0xieE&_nc_oc=AdkQ9V75LwXUvg8TS04_5ucyp_t5bdwFVbFdoYwp0ACwUAynXOGWU4yKlHLbkcDWeO0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wE0ylIhf-TMWEN3yWa1gjTD2wp7oTe9x9EaEcDp5ZJWwg&oe=6945207C",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582504438_1346467283192517_4377552331223820184_n.png?stp=dst-png_p280x280&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=i1WhdZPiQI4Q7kNvwG0xieE&_nc_oc=AdkQ9V75LwXUvg8TS04_5ucyp_t5bdwFVbFdoYwp0ACwUAynXOGWU4yKlHLbkcDWeO0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wH0I77zGYR6-Rcyh82lg26Kffngv7hJUjxtkrdkK_YRgg&oe=6945207C",
+                    "previewWidth": 280,
+                    "previewHeight": 332,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582504438_1346467283192517_4377552331223820184_n.png?stp=dst-png_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=i1WhdZPiQI4Q7kNvwG0xieE&_nc_oc=AdkQ9V75LwXUvg8TS04_5ucyp_t5bdwFVbFdoYwp0ACwUAynXOGWU4yKlHLbkcDWeO0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wG8pP05yrEkgeHAaHRyO7VTLDoITPZYBJAytHDDboUxSA&oe=6945207C",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 569,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582504438_1346467283192517_4377552331223820184_n.png?stp=dst-png_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=i1WhdZPiQI4Q7kNvwG0xieE&_nc_oc=AdkQ9V75LwXUvg8TS04_5ucyp_t5bdwFVbFdoYwp0ACwUAynXOGWU4yKlHLbkcDWeO0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wG8pP05yrEkgeHAaHRyO7VTLDoITPZYBJAytHDDboUxSA&oe=6945207C",
+                    "width": 540,
+                    "height": 640,
+                    "name": "image-1346467279859184"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❎ Lệnh không tồn tại\n✏️ Lệnh gần giống là: bankqr\n⏰ Bot đã online: 9h 3m 47s\n\n⭐ Thuê bot liên hệ admin:\nhttps://www.facebook.com/61575999835460",
+            "time": "19/11/2025 20:31:11",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "Quyền hạn của lệnh: limit là Người Thuê Bot mới sử dụng được nhé",
+            "time": "19/11/2025 20:39:09",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❎ Lệnh không tồn tại\n✏️ Lệnh gần giống là: bankqr\n⏰ Bot đã online: 36m 15s\n\n⭐ Thuê bot liên hệ admin:\nhttps://www.facebook.com/61575999835460",
+            "time": "20/11/2025 19:51:02",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🌟 MENU QUẢN LÝ THUÊ BOT 🌟\n\n» .rent info\n   - Xem thông tin thuê của nhóm hiện tại.\n\n» .rent usekey <Mã_Key>\n   - Kích hoạt thuê bot bằng key.\n\n» .rent list\n   - Xem danh sách các nhóm thuê (admin).\n\n» .rent add <số_ngày> [id_nhóm]\n   - Thêm mới hoặc gia hạn nhóm thuê (admin).\n\n» .rent del <STT|GroupID>\n   - Xóa nhóm khỏi danh sách thuê (admin).\n\n» .rent newkey <số_ngày>\n   - Tạo key mới (admin).\n\n» .rent check\n   - Kiểm tra tất cả các key (admin).\n\n» .rent delkey <Tên_Key>\n   - Xóa một key (admin).",
+            "time": "20/11/2025 19:51:09",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "⏳ Đang khởi tạo giao dịch, vui lòng chờ trong giây lát...",
+            "time": "22/11/2025 17:38:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Le Thanh Nghia",
+            "message": "✅ Giao dịch của bạn đã được tạo!\n\n- Ngân hàng: LE THANH NGHIA\n- STK: 5127032006\n- Số tiền: 4.000 VND (sẽ nhận được 4 lượt)\n- Nội dung: pcoderES4AZV\n\n⚠️ Vui lòng quét mã QR và **CHUYỂN KHOẢN ĐÚNG NỘI DUNG**. Giao dịch sẽ tự hủy sau 5 phút.",
+            "time": "22/11/2025 17:38:29",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1496741754887741",
+                    "filename": "image-1496741754887741",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/583976136_1496741758221074_7629169839150287368_n.png?stp=cp0_dst-png_p34x34&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Ag_E82CWjvkQ7kNvwGgnOL3&_nc_oc=AdmSquhaGSLwbp3GVvxT0owdt4vWGB9ogFJKqtnNUBzhPRSmLaoW4l2yjrEN_Q-tkJs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wHMg-kh5pDSHwBc2UyOlYp3rAj5CojLtu3z4Z5K25N1Tg&oe=69490BC8",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/583976136_1496741758221074_7629169839150287368_n.png?stp=dst-png_p280x280&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Ag_E82CWjvkQ7kNvwGgnOL3&_nc_oc=AdmSquhaGSLwbp3GVvxT0owdt4vWGB9ogFJKqtnNUBzhPRSmLaoW4l2yjrEN_Q-tkJs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wEC8m6DuTBM5wfTi4e61ymTaznoFTZ6Axf1G3WWVgUcdg&oe=69490BC8",
+                    "previewWidth": 280,
+                    "previewHeight": 332,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/583976136_1496741758221074_7629169839150287368_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Ag_E82CWjvkQ7kNvwGgnOL3&_nc_oc=AdmSquhaGSLwbp3GVvxT0owdt4vWGB9ogFJKqtnNUBzhPRSmLaoW4l2yjrEN_Q-tkJs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wFmQHjh0j14fKVjLqus8c4eDSNzEr8R0vEQHkuzC2O0EA&oe=69490BC8",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 569,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/583976136_1496741758221074_7629169839150287368_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Ag_E82CWjvkQ7kNvwGgnOL3&_nc_oc=AdmSquhaGSLwbp3GVvxT0owdt4vWGB9ogFJKqtnNUBzhPRSmLaoW4l2yjrEN_Q-tkJs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wFmQHjh0j14fKVjLqus8c4eDSNzEr8R0vEQHkuzC2O0EA&oe=69490BC8",
+                    "width": 540,
+                    "height": 640,
+                    "name": "image-1496741754887741"
+                }
+            ]
+        }
+    ],
+    "61565628154504": [
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".rent thanhtoan",
+            "time": "19/11/2025 19:36:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ":))",
+            "time": "19/11/2025 19:38:42",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 2000",
+            "time": "19/11/2025 19:45:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr",
+            "time": "19/11/2025 19:47:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 1000",
+            "time": "19/11/2025 19:47:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 2000",
+            "time": "19/11/2025 19:47:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 2000",
+            "time": "19/11/2025 19:48:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 10000",
+            "time": "19/11/2025 19:53:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": "@Thanh Nghia alo",
+            "time": "19/11/2025 21:03:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": "sao roi",
+            "time": "19/11/2025 21:03:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": "có file đó k á",
+            "time": "19/11/2025 21:03:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".rent thanhtoan",
+            "time": "20/11/2025 19:51:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 4000",
+            "time": "22/11/2025 17:38:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 5000",
+            "time": "26/11/2025 16:01:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".bankqr 5000",
+            "time": "26/11/2025 16:02:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".rent giahan",
+            "time": "26/11/2025 16:02:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".rent thanhtoan",
+            "time": "26/11/2025 16:02:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đức Phú",
+            "message": ".rent thanhtoan",
+            "time": "26/11/2025 16:02:39",
+            "attachment": []
+        }
+    ]
+}

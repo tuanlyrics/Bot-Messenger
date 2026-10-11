@@ -1,0 +1,15 @@
+[
+  {
+    "threadID": "23979353868372885",
+    "status": true,
+    "threshold": 15,
+    "interval": 30000,
+    "burstCount": 6,
+    "burstThreshold": 5000,
+    "warningEnabled": true,
+    "muteEnabled": true,
+    "muteDuration": 300000,
+    "logActions": true,
+    "trustedUsers": []
+  }
+]

@@ -1,0 +1,152 @@
+{
+    "100047128875560": [
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "test đi",
+            "time": "10/07/2025 11:48:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".",
+            "time": "10/07/2025 11:48:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".menu",
+            "time": "10/07/2025 11:48:16",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "10/07/2025 11:48:20",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": "1",
+            "time": "10/07/2025 11:48:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".cmd load console",
+            "time": "10/07/2025 11:49:47",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Phát",
+            "message": ".uid",
+            "time": "10/07/2025 11:49:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".",
+            "time": "10/07/2025 11:51:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".",
+            "time": "10/07/2025 11:51:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "Nó up video lên ram lâu v",
+            "time": "10/07/2025 11:51:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "r đó",
+            "time": "10/07/2025 11:52:00",
+            "attachment": []
+        }
+    ],
+    "61577154059323": [
+        {
+            "type": "message",
+            "name": "Nan Sc",
+            "message": "",
+            "time": "10/07/2025 11:49:00",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=foobTpcUjhUQ7kNvwGEKr7A&_nc_oc=Adl2ZffekmwUBE6erd0S54ncjYt_E158FIKrN4eEUL2IVnAzCXuqsSMIy5EhgjHw3C0&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=-8_j1c3mqy11MoFxWkL8kQ&oh=00_AfTgeK35vrQ0wYdudlnssvOCjvEDyWQKm9qLQBhYOjKMWA&oe=6875168B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nan Sc",
+            "message": "đm",
+            "time": "10/07/2025 11:49:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nan Sc",
+            "message": ".",
+            "time": "10/07/2025 11:52:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nan Sc",
+            "message": ".me",
+            "time": "10/07/2025 11:53:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nan Sc",
+            "message": ".menu",
+            "time": "10/07/2025 11:53:28",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nan Sc",
+            "message": "3",
+            "time": "10/07/2025 11:53:50",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nan Sc",
+            "message": "25",
+            "time": "10/07/2025 11:54:05",
+            "attachment": []
+        }
+    ]
+}

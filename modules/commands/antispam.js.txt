@@ -1,0 +1,524 @@
+class OptimizedSpamBlocker {
+    constructor() {
+        this.userSpamData = new Map();
+        this.trustedUsers = new Map(); // Map theo threadID
+        this.threadConfigs = new Map(); // Cache configs
+        this.commandMutes = new Map(); // Track muted users for commands
+        this.prefixSpamData = new Map(); // Track prefix spam
+        this.lastCleanup = Date.now();
+        
+        // Tối ưu cho nhiều box
+        this.CLEANUP_INTERVAL = 10 * 60 * 1000; // 10 phút
+        this.MAX_USER_DATA = 10000; // Giới hạn user data
+        this.USER_DATA_TTL = 30 * 60 * 1000; // 30 phút TTL
+        this.COMMAND_MUTE_DURATION = 24 * 60 * 60 * 1000; // 1 ngày
+        
+        // Batch processing
+        this.pendingActions = new Map();
+        this.processingBatch = false;
+        
+        this.setupOptimizations();
+    }
+
+    setupOptimizations() {
+        // Cleanup định kỳ
+        setInterval(() => this.optimizedCleanup(), this.CLEANUP_INTERVAL);
+        
+        // Process batch actions
+        setInterval(() => this.processPendingActions(), 5000);
+    }
+
+    // Cleanup tối ưu cho nhiều box
+    optimizedCleanup() {
+        const now = Date.now();
+        this.lastCleanup = now;
+        
+        // Cleanup user data
+        let cleanedCount = 0;
+        for (const [userId, userData] of this.userSpamData.entries()) {
+            if (now - userData.lastMessageTime > this.USER_DATA_TTL) {
+                this.userSpamData.delete(userId);
+                cleanedCount++;
+            }
+        }
+        
+        // Cleanup command mutes (expired)
+        let unmuteCount = 0;
+        for (const [userId, muteData] of this.commandMutes.entries()) {
+            if (now > muteData.expireAt) {
+                this.commandMutes.delete(userId);
+                unmuteCount++;
+            }
+        }
+        
+        // Cleanup prefix spam data
+        for (const [userId, prefixData] of this.prefixSpamData.entries()) {
+            if (now - prefixData.lastTime > this.USER_DATA_TTL) {
+                this.prefixSpamData.delete(userId);
+            }
+        }
+        
+        // Memory management
+        if (this.userSpamData.size > this.MAX_USER_DATA) {
+            const entries = Array.from(this.userSpamData.entries());
+            entries.sort((a, b) => a[1].lastMessageTime - b[1].lastMessageTime);
+            
+            const toDelete = entries.slice(0, Math.floor(this.MAX_USER_DATA * 0.2));
+            toDelete.forEach(([userId]) => this.userSpamData.delete(userId));
+        }
+        
+        console.log(`[ANTISPAM] Cleaned ${cleanedCount} user records, unmuted ${unmuteCount} users. Active users: ${this.userSpamData.size}`);
+    }
+
+    // Cache thread config
+    cacheThreadConfig(threadID, config) {
+        this.threadConfigs.set(threadID, {
+            ...config,
+            cachedAt: Date.now()
+        });
+    }
+
+    getCachedConfig(threadID) {
+        const cached = this.threadConfigs.get(threadID);
+        if (!cached) return null;
+        
+        // Cache expire after 5 minutes
+        if (Date.now() - cached.cachedAt > 5 * 60 * 1000) {
+            this.threadConfigs.delete(threadID);
+            return null;
+        }
+        
+        return cached;
+    }
+
+    // Check prefix spam và mute command
+    checkPrefixSpam(userId, threadID, message, prefix) {
+        if (!message.startsWith(prefix)) return false;
+        
+        const userKey = `${userId}_${threadID}`;
+        const now = Date.now();
+        
+        if (!this.prefixSpamData.has(userKey)) {
+            this.prefixSpamData.set(userKey, {
+                count: 1,
+                lastTime: now,
+                firstTime: now
+            });
+            return false;
+        }
+        
+        const prefixData = this.prefixSpamData.get(userKey);
+        
+        // Reset nếu quá 30s
+        if (now - prefixData.lastTime > 30000) {
+            prefixData.count = 1;
+            prefixData.firstTime = now;
+            prefixData.lastTime = now;
+            return false;
+        }
+        
+        prefixData.count++;
+        prefixData.lastTime = now;
+        
+        // Spam prefix: 5 lệnh trong 30s
+        if (prefixData.count >= 5) {
+            this.muteUserCommands(userId, threadID);
+            this.prefixSpamData.delete(userKey); // Reset after mute
+            return true;
+        }
+        
+        return false;
+    }
+    
+    // Mute user khỏi việc sử dụng commands
+    muteUserCommands(userId, threadID) {
+        const muteKey = `${userId}_${threadID}`;
+        this.commandMutes.set(muteKey, {
+            userId,
+            threadID,
+            mutedAt: Date.now(),
+            expireAt: Date.now() + this.COMMAND_MUTE_DURATION
+        });
+    }
+    
+    // Kiểm tra user có bị mute commands không
+    isCommandMuted(userId, threadID) {
+        const muteKey = `${userId}_${threadID}`;
+        const muteData = this.commandMutes.get(muteKey);
+        
+        if (!muteData) return false;
+        
+        // Kiểm tra đã hết hạn mute chưa
+        if (Date.now() > muteData.expireAt) {
+            this.commandMutes.delete(muteKey);
+            return false;
+        }
+        
+        return {
+            remainingTime: muteData.expireAt - Date.now(),
+            mutedAt: muteData.mutedAt
+        };
+    }
+    
+    // Unmute user (manual)
+    unmuteUserCommands(userId, threadID) {
+        const muteKey = `${userId}_${threadID}`;
+        return this.commandMutes.delete(muteKey);
+    }
+
+    // Optimized spam check
+    canSend(userId, threadID, config, messageLength = 0) {
+        const userKey = `${userId}_${threadID}`;
+        
+        // Trusted users check (cache friendly)
+        const trustedInThread = this.trustedUsers.get(threadID);
+        if (trustedInThread && trustedInThread.has(userId)) {
+            return { allowed: true, action: 'trusted' };
+        }
+
+        if (!this.userSpamData.has(userKey)) {
+            this.userSpamData.set(userKey, {
+                messageCount: 1,
+                lastMessageTime: Date.now(),
+                violations: 0,
+                threadID: threadID
+            });
+            return { allowed: true, action: 'first_message' };
+        }
+
+        const userData = this.userSpamData.get(userKey);
+        const currentTime = Date.now();
+        const timeDiff = currentTime - userData.lastMessageTime;
+
+        // Quick interval check
+        if (timeDiff > config.interval) {
+            userData.lastMessageTime = currentTime;
+            userData.messageCount = 1;
+            return { allowed: true, action: 'interval_reset' };
+        }
+
+        // Spam detection
+        if (userData.messageCount >= config.threshold) {
+            userData.violations++;
+            return { allowed: false, action: 'spam_detected', violations: userData.violations };
+        }
+
+        userData.messageCount++;
+        userData.lastMessageTime = currentTime;
+        return { allowed: true, action: 'allowed' };
+    }
+
+    // Queue actions để batch process
+    queueAction(userId, threadID, violations) {
+        const key = `${userId}_${threadID}`;
+        this.pendingActions.set(key, {
+            userId,
+            threadID,
+            violations,
+            queuedAt: Date.now()
+        });
+    }
+
+    // Process actions theo batch
+    async processPendingActions() {
+        if (this.processingBatch || this.pendingActions.size === 0) return;
+        
+        this.processingBatch = true;
+        const actions = Array.from(this.pendingActions.entries()).slice(0, 20); // Process 20 at a time
+        
+        for (const [key, action] of actions) {
+            this.pendingActions.delete(key);
+        }
+        
+        this.processingBatch = false;
+    }
+
+    // Set trusted users for thread
+    setTrustedUsers(threadID, userIds) {
+        this.trustedUsers.set(threadID, new Set(userIds));
+    }
+
+    addTrustedUser(threadID, userId) {
+        if (!this.trustedUsers.has(threadID)) {
+            this.trustedUsers.set(threadID, new Set());
+        }
+        this.trustedUsers.get(threadID).add(userId);
+    }
+
+    removeTrustedUser(threadID, userId) {
+        const trusted = this.trustedUsers.get(threadID);
+        if (trusted) {
+            trusted.delete(userId);
+        }
+    }
+
+    getUserStats(userId, threadID) {
+        const userKey = `${userId}_${threadID}`;
+        const userData = this.userSpamData.get(userKey);
+        return userData ? {
+            messageCount: userData.messageCount,
+            violations: userData.violations,
+            lastSeen: new Date(userData.lastMessageTime).toLocaleString('vi-VN')
+        } : null;
+    }
+
+    resetUserStats(userId, threadID) {
+        const userKey = `${userId}_${threadID}`;
+        this.userSpamData.delete(userKey);
+        this.prefixSpamData.delete(userKey);
+    }
+
+    // Get stats (optimized for many boxes)
+    getSystemStats() {
+        return {
+            activeUsers: this.userSpamData.size,
+            cachedConfigs: this.threadConfigs.size,
+            trustedThreads: this.trustedUsers.size,
+            pendingActions: this.pendingActions.size,
+            mutedUsers: this.commandMutes.size,
+            prefixSpamTracking: this.prefixSpamData.size,
+            memoryUsage: process.memoryUsage(),
+            lastCleanup: new Date(this.lastCleanup).toLocaleString('vi-VN')
+        };
+    }
+}
+
+const optimizedSpamBlocker = new OptimizedSpamBlocker();
+
+module.exports.config = {
+    name: "antispam",
+    version: "2.1.0",
+    hasPermssion: 2,
+    credits: "Anti-Prefix Spam cho toàn bộ BOT",
+    description: "Hệ thống chống spam LỆNH (prefix) toàn cục - mute 24h",
+    commandCategory: "Admin",  
+    usages: "[mutelist/unmute/system/trust] [@user]",
+    cooldowns: 1,
+};
+
+const fs = require("fs-extra");
+const path = __dirname + "/data/antispam.json";
+
+module.exports.onLoad = () => {
+    if (!fs.existsSync(path) || fs.statSync(path).isDirectory()) {
+        fs.writeFileSync(path, JSON.stringify([], null, 4));
+    }
+}
+
+// Hàm helper để lưu dữ liệu
+function saveData(data) {
+    fs.writeFileSync(path, JSON.stringify(data, null, 2));
+}
+
+// Hàm helper để tạo config mặc định
+function createDefaultConfig(threadID) {
+    return {
+        threadID: threadID,
+        status: false,
+        threshold: 10,        
+        interval: 10000,     
+        burstCount: 3,       
+        burstThreshold: 2000, 
+        warningEnabled: true, 
+        muteEnabled: true,    
+        muteDuration: 300000, 
+        logActions: true,     
+        trustedUsers: []      
+    };
+}
+
+module.exports.handleEvent = async function({ api, event, Users }) {
+    if (event.type !== "message") return;
+    
+    const userId = event.senderID;
+    const threadID = event.threadID;
+    const message = event.body || "";
+    
+    try {
+        if (userId === api.getCurrentUserID()) return;
+        
+        // CHỈ KIỂM TRA PREFIX SPAM - KHÔNG KIỂM TRA SPAM TIN NHẮN THÔNG THƯỜNG
+        if (message && global.config.PREFIX) {
+            const isSpammingPrefix = optimizedSpamBlocker.checkPrefixSpam(
+                userId, 
+                threadID, 
+                message, 
+                global.config.PREFIX
+            );
+            
+            if (isSpammingPrefix) {
+                const userName = (await Users.getData(userId)).name;
+                api.sendMessage(
+                    `🚫 ${userName} đã bị mute 24h do spam lệnh!\n` +
+                    `⏰ Thời gian mute: ${new Date(Date.now() + optimizedSpamBlocker.COMMAND_MUTE_DURATION).toLocaleString('vi-VN')}\n` +
+                    `📝 Lý do: Spam ${global.config.PREFIX} (5 lệnh trong 30s)`,
+                    threadID
+                );
+                console.log(`[ANTISPAM] User ${userId} (${userName}) muted for prefix spam in thread ${threadID}`);
+                return;
+            }
+        }
+        
+        // Kiểm tra user có bị mute commands không
+        if (message.startsWith(global.config.PREFIX)) {
+            const muteStatus = optimizedSpamBlocker.isCommandMuted(userId, threadID);
+            if (muteStatus) {
+                const remainingHours = Math.ceil(muteStatus.remainingTime / (60 * 60 * 1000));
+                const userName = (await Users.getData(userId)).name;
+                
+                api.sendMessage(
+                    `❌ ${userName}, bạn đang bị mute sử dụng lệnh!\n` +
+                    `⏰ Thời gian còn lại: ${remainingHours} giờ\n` +
+                    `📅 Ngày mute: ${new Date(muteStatus.mutedAt).toLocaleString('vi-VN')}\n` +
+                    `💡 Lý do: Spam lệnh với prefix`,
+                    threadID
+                );
+                return; // Chặn việc xử lý lệnh
+            }
+        }
+        
+        // KHÔNG CÒN XỬ LÝ SPAM TIN NHẮN THÔNG THƯỜNG NỮA
+        
+    } catch (e) {
+        console.error("[ANTISPAM ERROR]", e);
+    }
+}
+
+module.exports.run = async function({ api, event, args, Users }) {
+    try {
+        const command = args[0];
+        
+        switch (command) {
+            case "mutelist":
+                const mutedUsers = [];
+                for (const [key, muteData] of optimizedSpamBlocker.commandMutes.entries()) {
+                    if (muteData.threadID == event.threadID) {
+                        const userNameMute = (await Users.getData(muteData.userId)).name;
+                        const remainingHours = Math.ceil((muteData.expireAt - Date.now()) / (60 * 60 * 1000));
+                        mutedUsers.push(`• ${userNameMute} (${remainingHours}h)`);
+                    }
+                }
+                
+                if (mutedUsers.length === 0) {
+                    return api.sendMessage("📝 Không có user nào bị mute lệnh trong nhóm này!", event.threadID);
+                }
+                
+                return api.sendMessage(
+                    `🔇 Danh sách user bị mute lệnh (nhóm này):\n${mutedUsers.join('\n')}`,
+                    event.threadID
+                );
+                
+            case "unmute":
+                const unmuteUserId = args[1]?.replace(/[<@>]/g, '');
+                if (!unmuteUserId) return api.sendMessage("❌ Vui lòng tag user cần unmute!", event.threadID);
+                
+                const unmuted = optimizedSpamBlocker.unmuteUserCommands(unmuteUserId, event.threadID);
+                if (unmuted) {
+                    const userNameUnmute = (await Users.getData(unmuteUserId)).name;
+                    return api.sendMessage(`✅ Đã unmute ${userNameUnmute} khỏi việc sử dụng lệnh!`, event.threadID);
+                } else {
+                    return api.sendMessage("❌ User này không bị mute lệnh trong nhóm này!", event.threadID);
+                }
+                
+            case "system":
+                const systemStats = optimizedSpamBlocker.getSystemStats();
+                const memoryMB = Math.round(systemStats.memoryUsage.heapUsed / 1024 / 1024);
+                
+                return api.sendMessage(
+                    `🖥️ Thống kê hệ thống Anti-Prefix Spam:\n` +
+                    `🔇 Tổng users bị mute: ${systemStats.mutedUsers}\n` +
+                    `📊 Đang track prefix spam: ${systemStats.prefixSpamTracking}\n` +
+                    `👥 Active users: ${systemStats.activeUsers}\n` +
+                    `🛡️ Trusted threads: ${systemStats.trustedThreads}\n` +
+                    `⚡ Memory: ${memoryMB}MB\n` +
+                    `🧹 Cleanup cuối: ${systemStats.lastCleanup}\n\n` +
+                    `🔒 Cấu hình: 5 lệnh/30s → mute 24h\n` +
+                    `🌐 Áp dụng: TOÀN BỘ ${systemStats.cachedConfigs || 0}+ groups`,
+                    event.threadID
+                );
+                
+            case "trust":
+                const trustAction = args[1];
+                const targetUserId = args[2]?.replace(/[<@>]/g, '');
+                
+                if (trustAction === "add" && targetUserId) {
+                    optimizedSpamBlocker.addTrustedUser(event.threadID, targetUserId);
+                    const userName = (await Users.getData(targetUserId)).name;
+                    return api.sendMessage(`✅ Đã thêm ${userName} vào danh sách bypass spam lệnh (chỉ nhóm này)!`, event.threadID);
+                    
+                } else if (trustAction === "remove" && targetUserId) {
+                    optimizedSpamBlocker.removeTrustedUser(event.threadID, targetUserId);
+                    const userName = (await Users.getData(targetUserId)).name;
+                    return api.sendMessage(`✅ Đã xóa ${userName} khỏi danh sách bypass (chỉ nhóm này)!`, event.threadID);
+                    
+                } else if (trustAction === "list") {
+                    const trustedInThread = optimizedSpamBlocker.trustedUsers.get(event.threadID);
+                    if (!trustedInThread || trustedInThread.size === 0) {
+                        return api.sendMessage("📝 Danh sách bypass trống trong nhóm này!", event.threadID);
+                    }
+                    
+                    let list = "📝 Users được bypass spam lệnh (nhóm này):\n";
+                    let i = 1;
+                    for (const userId of trustedInThread) {
+                        const userName = (await Users.getData(userId)).name;
+                        list += `${i++}. ${userName}\n`;
+                    }
+                    return api.sendMessage(list, event.threadID);
+                }
+                return api.sendMessage("❌ Sử dụng: antispam trust [add/remove/list] [@user]", event.threadID);
+                
+            default:
+                return api.sendMessage(
+                    `🔒 **ANTI-PREFIX SPAM TOÀN CỤC**\n\n` +
+                    `📋 **Hoạt động:**\n` +
+                    `• Tự động phát hiện spam lệnh: **5 lệnh/${global.config.PREFIX}xxx trong 30s**\n` +
+                    `• Tự động mute 24h không được dùng lệnh\n` +
+                    `• Áp dụng cho **TẤT CẢ** ${global.client?.commands?.size || 'X'}+ nhóm bot\n\n` +
+                    `⚙️ **Lệnh quản lý:**\n` +
+                    `• \`${global.config.PREFIX}antispam mutelist\` - Xem ai bị mute\n` +
+                    `• \`${global.config.PREFIX}antispam unmute @user\` - Bỏ mute\n` +
+                    `• \`${global.config.PREFIX}antispam trust add/remove/list @user\` - Bypass\n` +
+                    `• \`${global.config.PREFIX}antispam system\` - Thống kê hệ thống\n\n` +
+                    `✅ **Đã kích hoạt tự động!**\n` +
+                    `❌ **Không cần setup gì thêm!**`,
+                    event.threadID
+                );
+        }
+        
+    } catch (e) {
+        console.error("[ANTISPAM ERROR]", e);
+        return api.sendMessage("❌ Đã xảy ra lỗi!", event.threadID);
+    }
+}
+
+module.exports.handleReaction = async function({ api, event, handleReaction }) {
+    const { threadID, userID } = event;
+    const { data, author } = handleReaction;
+    
+    try {
+        if (userID !== author) return;
+        if (event.reaction !== "❤") return;
+        
+        api.unsendMessage(handleReaction.messageID);
+        
+        const configData = JSON.parse(fs.readFileSync(path, 'utf8'));
+        const threadConfig = configData.find(item => item.threadID == threadID);
+        
+        if (threadConfig) {
+            threadConfig.threshold = data.threshold;
+            threadConfig.interval = data.interval;
+            threadConfig.burstCount = data.burstCount;
+            threadConfig.burstThreshold = data.burstThreshold;
+            
+            saveData(configData);
+            
+            // Update cache
+            optimizedSpamBlocker.cacheThreadConfig(threadID, threadConfig);
+            
+            return api.sendMessage("✅ Đã cập nhật cấu hình thành công!", threadID);
+        }
+    } catch (e) {
+        console.error("[ANTISPAM REACTION ERROR]", e);
+        return api.sendMessage("❌ Lỗi khi cập nhật cấu hình!", threadID);
+    }
+}

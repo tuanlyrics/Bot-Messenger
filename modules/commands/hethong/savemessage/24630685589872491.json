@@ -1,0 +1,152 @@
+{
+    "100047128875560": [
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "@Đàng Quang Lộc",
+            "time": "01/08/2025 11:49:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "nào ok rồi cứ gõ .bankqr 200000",
+            "time": "01/08/2025 11:56:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": ".bankqr 200000",
+            "time": "01/08/2025 11:56:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "như này",
+            "time": "01/08/2025 11:56:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Phát",
+            "message": "là đc",
+            "time": "01/08/2025 11:56:49",
+            "attachment": []
+        }
+    ],
+    "100084835742152": [
+        {
+            "type": "message",
+            "name": "Đàng Quang Lộc",
+            "message": "",
+            "time": "01/08/2025 11:51:10",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=-ze1a4r6eD4Q7kNvwGBrTp1&_nc_oc=Adkn0VOjPO4flcf2UtBQ0U-w7rxRa3LFM8ncDyRcqLS53abMuHszhHxO4vWgctSL0jA&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=zLo1w8ZyxM5oBo7h6ObmTQ&oh=00_AfQP6cJtnI2yEUUnGhNn1gW05uy7pyBop25HxjjYGfUgtQ&oe=6892178B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Đàng Quang Lộc",
+            "message": ".menu",
+            "time": "01/08/2025 11:51:44",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": "19",
+            "time": "01/08/2025 11:51:58",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": "1",
+            "time": "01/08/2025 11:52:06",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": "1",
+            "time": "01/08/2025 11:52:53",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": "22",
+            "time": "01/08/2025 11:53:12",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": ".capwall",
+            "time": "01/08/2025 11:53:38",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": "111",
+            "time": "01/08/2025 11:53:59",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": ".video nobita",
+            "time": "01/08/2025 11:54:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đàng Quang Lộc",
+            "message": ".menu",
+            "time": "01/08/2025 11:55:15",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": "2",
+            "time": "01/08/2025 11:55:25",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Đàng Quang Lộc",
+            "message": ".list box",
+            "time": "01/08/2025 11:55:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Đàng Quang Lộc",
+            "message": ".bankqr",
+            "time": "01/08/2025 11:56:06",
+            "attachment": []
+        }
+    ]
+}

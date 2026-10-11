@@ -1,0 +1,21 @@
+--- Bắt đầu phiên kiểm tra lúc 13:38:19 14/8/2025 ---
+
+[13:38:19 14/8/2025] Bắt đầu kiểm tra cho nhóm: 24207038452267648
+[13:38:19 14/8/2025] Bước 1: Đang thử tải ảnh từ URL mới: https://i.postimg.cc/k4ybM9G4/cat-test.jpg
+[13:38:20 14/8/2025] 
+========= LỖI NGHIÊM TRỌNG ==========
+[13:38:20 14/8/2025] Đã xảy ra lỗi trong quá trình kiểm tra.
+[13:38:20 14/8/2025] Tên lỗi: AxiosError
+[13:38:20 14/8/2025] Thông điệp lỗi: Request failed with status code 404
+[13:38:20 14/8/2025] Chi tiết (Stack Trace):
+[13:38:20 14/8/2025] AxiosError: Request failed with status code 404
+    at settle (/root/filebot2/test/cc/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (/root/filebot2/test/cc/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:536:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (/root/filebot2/test/cc/node_modules/axios/lib/core/Axios.js:45:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Object.module.exports.run (/root/filebot2/test/cc/modules/commands/antiavt.js:41:26)
+    at /root/filebot2/test/cc/pdata/data_dongdev/handle/handleCommand.js:152:13
+[13:38:20 14/8/2025] ==========================================

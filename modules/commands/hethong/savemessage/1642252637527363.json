@@ -1,0 +1,117 @@
+{
+    "100077585119034": [
+        {
+            "type": "message",
+            "name": "Bao Trann",
+            "message": "",
+            "time": "11/10/2026 10:59:03",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=-RWqQUXtTk4Q7kNvwFfL2Yb&_nc_oc=AdqjMJ5NSNsKju-3jkxeOJIHX24k6i8tbUVAD34_yqbknOojwogFiyg57rxBpI-7-K4&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=Piz8aupZeNqfATG5gJ16lw&oh=00_AQMgf_ufxPXsG4Z2rC1WQyPRwya5aymEW9fHGQ4Qpx6PFQ&oe=6AD0E58B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Bao Trann",
+            "message": "nhóm gi v",
+            "time": "11/10/2026 10:59:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Bao Trann",
+            "message": "dit=)))))",
+            "time": "11/10/2026 10:59:25",
+            "attachment": []
+        }
+    ],
+    "61583516770435": [
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": "Bot =))",
+            "time": "11/10/2026 10:59:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": ".menu",
+            "time": "11/10/2026 10:59:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": "Hình như 400 lệnh",
+            "time": "11/10/2026 11:00:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": ".freefire",
+            "time": "11/10/2026 11:01:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": ".Free Fire",
+            "time": "11/10/2026 11:01:42",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": ".game",
+            "time": "11/10/2026 11:01:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": ".menu all",
+            "time": "11/10/2026 11:02:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": ".menu 10",
+            "time": "11/10/2026 11:02:21",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Ahn Tuna",
+            "message": "10",
+            "time": "11/10/2026 11:02:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ahn Tuna",
+            "message": ".fff",
+            "time": "11/10/2026 11:02:49",
+            "attachment": []
+        }
+    ]
+}

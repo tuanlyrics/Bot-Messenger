@@ -1,0 +1,65 @@
+[
+    {
+        "apiKey": "spn_concac",
+        "name": "concac",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/concac.png",
+        "createdAt": "2025-08-09T07:39:32.917Z"
+    },
+    {
+        "apiKey": "spn_pcoder",
+        "name": "pcoder",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/pcoder.png",
+        "createdAt": "2025-08-09T08:06:26.318Z"
+    },
+    {
+        "apiKey": "spn_spntest",
+        "name": "spntest",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/spntest.png",
+        "createdAt": "2025-08-09T08:12:28.459Z"
+    },
+    {
+        "apiKey": "spn_dt",
+        "name": "dt",
+        "creatorId": "1181073981",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/dt.png",
+        "createdAt": "2025-08-09T08:19:58.162Z"
+    },
+    {
+        "apiKey": "spn_spntest1",
+        "name": "spntest1",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/spntest1.png",
+        "createdAt": "2025-08-10T06:05:15.500Z"
+    },
+    {
+        "apiKey": "spn_koa",
+        "name": "koa",
+        "creatorId": "61557059416498",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/koa.png",
+        "createdAt": "2025-08-12T07:19:58.786Z"
+    },
+    {
+        "apiKey": "spn_abcxyz",
+        "name": "abcxyz",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/abcxyz.png",
+        "createdAt": "2025-08-12T10:53:50.870Z"
+    },
+    {
+        "apiKey": "spn_caccadad",
+        "name": "caccadad",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/caccadad.png",
+        "createdAt": "2025-08-12T19:17:15.517Z"
+    },
+    {
+        "apiKey": "spn_iam",
+        "name": "iam",
+        "creatorId": "61567368600256",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/ffrank/logos/iam.png",
+        "createdAt": "2025-08-13T00:34:55.999Z"
+    }
+]

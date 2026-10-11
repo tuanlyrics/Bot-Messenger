@@ -1,0 +1,332 @@
+{
+    "100042031787969": [
+        {
+            "type": "message_reply",
+            "name": "Tài Hoàng",
+            "message": ":))",
+            "time": "14/11/2025 22:21:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Tài Hoàng",
+            "message": "Nhắn riêng",
+            "time": "14/11/2025 22:21:33",
+            "attachment": []
+        }
+    ],
+    "61576121322781": [
+        {
+            "type": "message",
+            "name": "Kin Luong",
+            "message": "R",
+            "time": "14/11/2025 22:21:38",
+            "attachment": []
+        }
+    ],
+    "61574142330830": [
+        {
+            "type": "message",
+            "name": "Trung Hiếu Hiếu",
+            "message": "💖",
+            "time": "14/11/2025 22:21:43",
+            "attachment": []
+        }
+    ],
+    "61581702361850": [
+        {
+            "type": "message",
+            "name": "Phạm Văn Sáng",
+            "message": "@Thanh Nghia",
+            "time": "14/11/2025 22:23:02",
+            "attachment": []
+        }
+    ],
+    "61574583956383": [
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "✨ === LỆNH LƯỢT DÙNG === ✨\n\n1. `luotdung check [tag/reply/uid]`\n» Kiểm tra lượt dùng của bản thân hoặc người khác.\n\n2. `luotdung checkbox`\n» Kiểm tra xem nhóm này có đang trong thời gian dùng miễn phí không.\n\n3. `luotdung thanhtoan [uid] [số tiền]`\n» (Admin) Cộng lượt thủ công cho người dùng.\n\n4. `luotdung vohan [uid/tag/reply] [số ngày]`\n» (Admin) Cấp quyền dùng lệnh miễn phí cho một người dùng.\n\n5. `luotdung vohanbox [số ngày]`\n» (Admin) Cấp quyền dùng lệnh miễn phí cho cả nhóm chat này.",
+            "time": "19/11/2025 12:48:18",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❌ Vui lòng nhập một số tiền hợp lệ (tối thiểu 1,000 VND để đổi lấy lượt).",
+            "time": "19/11/2025 12:48:54",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❌ Vui lòng nhập một số tiền hợp lệ (tối thiểu 1,000 VND để đổi lấy lượt).",
+            "time": "19/11/2025 12:49:18",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🌟 MENU QUẢN LÝ THUÊ BOT 🌟\n\n» .rent info\n   - Xem thông tin thuê của nhóm hiện tại.\n\n» .rent usekey <Mã_Key>\n   - Kích hoạt thuê bot bằng key.\n\n» .rent list\n   - Xem danh sách các nhóm thuê (admin).\n\n» .rent add <số_ngày> [id_nhóm]\n   - Thêm mới hoặc gia hạn nhóm thuê (admin).\n\n» .rent del <STT|GroupID>\n   - Xóa nhóm khỏi danh sách thuê (admin).\n\n» .rent newkey <số_ngày>\n   - Tạo key mới (admin).\n\n» .rent check\n   - Kiểm tra tất cả các key (admin).\n\n» .rent delkey <Tên_Key>\n   - Xóa một key (admin).",
+            "time": "19/11/2025 18:08:51",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "✅ Đã cài đặt QR tùy chỉnh thành công!",
+            "time": "19/11/2025 18:40:59",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "⏳ Vui lòng chọn khung giờ tính điểm:\n\n1. 13:00 ➟ 15:00\n2. 15:00 ➟ 17:00\n3. 17:00 ➟ 19:00\n4. 20:00 ➟ 21:30\n5. 21:40 ➟ 23:00\n6. 23:30 ➟ 01:00\n7. 01:00 ➟ 03:00\n8. 10:00 ➟ 12:00\n\n📌 Reply (phản hồi) tin nhắn này bằng số tương ứng để chọn.\nYêu cầu bởi: Dừa Non",
+            "time": "19/11/2025 18:44:35",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "❌ Không tìm thấy trận đấu nào của ID trong khung giờ đã chọn!",
+            "time": "19/11/2025 18:44:43",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "Quyền hạn của lệnh: file là ADMIN",
+            "time": "19/11/2025 18:48:32",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "Quyền hạn của lệnh: file là ADMIN",
+            "time": "19/11/2025 18:48:45",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🤖 SCORING LINEUP BOT 🤖\n\nChọn Layout LineUp Bạn Muốn\n━━━━━━━━━━━━━━━━━━━━\n1. SUMMER\n2. VFL\n3. VIETNAM\n━━━━━━━━━━━━━━━━━━━━\n\nReply tin nhắn này bằng số thứ tự để chọn layout.",
+            "time": "19/11/2025 18:49:44",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🔹 Vui lòng chọn số lượng thành viên:\n\n→ 4 thành viên\n→ 5 thành viên\n\nReply tin nhắn này bằng số lượng bạn muốn.",
+            "time": "19/11/2025 18:49:53",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🔹 Vui lòng nhập tên giải đấu:",
+            "time": "19/11/2025 18:49:59",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "🔹 Vui lòng nhập tên đội của bạn:",
+            "time": "19/11/2025 18:50:09",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "📷 Bạn có muốn thêm logo cho đội không? (Reply `có` hoặc `không`)",
+            "time": "19/11/2025 18:50:16",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "📷 Vui lòng reply tin nhắn này bằng ảnh logo của đội.",
+            "time": "19/11/2025 18:50:31",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Le Thanh Nghia",
+            "message": "📷 Bạn có muốn thêm avatar cho các thành viên không? (Reply `có` hoặc `không`)",
+            "time": "19/11/2025 18:50:43",
+            "attachment": []
+        }
+    ],
+    "100079214892921": [
+        {
+            "type": "message",
+            "name": "Thanh Vinh",
+            "message": ".bankqr",
+            "time": "19/11/2025 12:48:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Vinh",
+            "message": "nạp lượt sao v @An Trần",
+            "time": "19/11/2025 12:50:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Vinh",
+            "message": ".rent thanhtoan",
+            "time": "19/11/2025 18:08:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Thanh Vinh",
+            "message": "💖",
+            "time": "19/11/2025 18:08:58",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Thanh Vinh",
+            "message": "rep",
+            "time": "19/11/2025 18:44:45",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Thanh Vinh",
+            "message": "2",
+            "time": "19/11/2025 18:49:52",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Thanh Vinh",
+            "message": "4",
+            "time": "19/11/2025 18:49:59",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Thanh Vinh",
+            "message": "SCRIM",
+            "time": "19/11/2025 18:50:08",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Thanh Vinh",
+            "message": "DELTA",
+            "time": "19/11/2025 18:50:16",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Thanh Vinh",
+            "message": "có",
+            "time": "19/11/2025 18:50:30",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Thanh Vinh",
+            "message": "",
+            "time": "19/11/2025 18:50:42",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1010389814604704",
+                    "filename": "image-1010389814604704",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/581959616_859321599888252_4224164631074007769_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=e77sUHBrXgcQ7kNvwHXovRr&_nc_oc=Adm9UINAXd0449RPFGYSEFOPvrE8h0xJuTG7QgyHlZ8hzFrgctGYyRI8lN-XzvFhHjE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wFPH2qZOf1zZqxsU30ZJhTU-_LV2AoEC_kcWNfNPcZgUw&oe=69453BE9",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/581959616_859321599888252_4224164631074007769_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=e77sUHBrXgcQ7kNvwHXovRr&_nc_oc=Adm9UINAXd0449RPFGYSEFOPvrE8h0xJuTG7QgyHlZ8hzFrgctGYyRI8lN-XzvFhHjE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wF2TtRI2N218rSSgMiTwhda8UwoGcVbg7e3bFmob9fZCQ&oe=69453BE9",
+                    "previewWidth": 280,
+                    "previewHeight": 304,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/581959616_859321599888252_4224164631074007769_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=e77sUHBrXgcQ7kNvwHXovRr&_nc_oc=Adm9UINAXd0449RPFGYSEFOPvrE8h0xJuTG7QgyHlZ8hzFrgctGYyRI8lN-XzvFhHjE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wHBU-ujXAspA_eL9jTCgP9qXJCXyHwcwIdF4M2UTpMrwA&oe=69453BE9",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 521,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/581959616_859321599888252_4224164631074007769_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=e77sUHBrXgcQ7kNvwHXovRr&_nc_oc=Adm9UINAXd0449RPFGYSEFOPvrE8h0xJuTG7QgyHlZ8hzFrgctGYyRI8lN-XzvFhHjE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wHBU-ujXAspA_eL9jTCgP9qXJCXyHwcwIdF4M2UTpMrwA&oe=69453BE9",
+                    "width": 1065,
+                    "height": 1155,
+                    "name": "image-1010389814604704"
+                }
+            ]
+        }
+    ],
+    "61583836805833": [
+        {
+            "type": "message",
+            "name": "Dừa Non",
+            "message": "",
+            "time": "19/11/2025 18:40:48",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "3143387292532533",
+                    "filename": "image-3143387292532533",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582061166_1845240916081518_7126465811655296943_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YEMGQkypGYwQ7kNvwEkzov4&_nc_oc=Admk1z1WrccPyCj41TOskm_8lF6fXDEyomLWW1WTAklxstVnl2TnM13K_rPAJXdB9H8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wFHOke37wfM2ourvAsp5HuGkbufoadP599_w3mdAsbOrg&oe=69453475",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582061166_1845240916081518_7126465811655296943_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YEMGQkypGYwQ7kNvwEkzov4&_nc_oc=Admk1z1WrccPyCj41TOskm_8lF6fXDEyomLWW1WTAklxstVnl2TnM13K_rPAJXdB9H8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wHB2sxQZdH4Te4BTQxCRJwiIDvgBoT0lXJSs-oL1dFJWg&oe=69453475",
+                    "previewWidth": 280,
+                    "previewHeight": 608,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582061166_1845240916081518_7126465811655296943_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YEMGQkypGYwQ7kNvwEkzov4&_nc_oc=Admk1z1WrccPyCj41TOskm_8lF6fXDEyomLWW1WTAklxstVnl2TnM13K_rPAJXdB9H8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wFyHV6FSI_wObAQpJIjwSuNE32JSXVxZR1hGZh3WRlvHw&oe=69453475",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 1042,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/582061166_1845240916081518_7126465811655296943_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YEMGQkypGYwQ7kNvwEkzov4&_nc_oc=Admk1z1WrccPyCj41TOskm_8lF6fXDEyomLWW1WTAklxstVnl2TnM13K_rPAJXdB9H8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD3wFyHV6FSI_wObAQpJIjwSuNE32JSXVxZR1hGZh3WRlvHw&oe=69453475",
+                    "width": 828,
+                    "height": 1798,
+                    "name": "image-3143387292532533"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Dừa Non",
+            "message": "@Thanh Vinh ib đi",
+            "time": "19/11/2025 18:41:55",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Dừa Non",
+            "message": "1",
+            "time": "19/11/2025 18:44:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Dừa Non",
+            "message": "Ko có pro",
+            "time": "19/11/2025 18:48:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Dừa Non",
+            "message": "Line",
+            "time": "19/11/2025 18:48:49",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Dừa Non",
+            "message": "Ib đi",
+            "time": "19/11/2025 18:48:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Dừa Non",
+            "message": "@Nguyễn Thành Duy ib đi",
+            "time": "19/11/2025 18:50:20",
+            "attachment": []
+        }
+    ],
+    "61577387720315": [
+        {
+            "type": "message",
+            "name": "Nguyễn Thành Duy",
+            "message": "Tính điểm nhiêu tháng",
+            "time": "19/11/2025 18:48:51",
+            "attachment": []
+        }
+    ]
+}

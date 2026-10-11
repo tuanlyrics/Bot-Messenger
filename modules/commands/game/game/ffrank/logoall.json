@@ -1,0 +1,16 @@
+[
+    {
+        "apiKey": "spn_pcoder",
+        "name": "pcoder",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/game/ffrank/logos/pcoder.png",
+        "createdAt": "2025-08-09T07:33:39.253Z"
+    },
+    {
+        "apiKey": "spn_pcoder1",
+        "name": "pcoder1",
+        "creatorId": "100047128875560",
+        "logoPath": "/root/filebot2/test/cc/modules/commands/game/game/ffrank/logos/pcoder1.png",
+        "createdAt": "2025-08-09T07:34:11.247Z"
+    }
+]
